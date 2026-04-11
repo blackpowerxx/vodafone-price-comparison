@@ -105,7 +105,8 @@ export default function PriceTable({ rows, sources, currency }: Props) {
       </div>
 
       {/* Table */}
-      <div className="overflow-x-auto rounded-xl border border-gray-200 shadow-sm bg-white">
+      <div className="rounded-xl border border-gray-200 shadow-sm bg-white overflow-hidden">
+      <div className="overflow-x-auto">
         <table className="w-full min-w-max text-sm border-collapse">
           <thead>
             <tr className="border-b border-gray-100">
@@ -204,6 +205,7 @@ export default function PriceTable({ rows, sources, currency }: Props) {
             })}
           </tbody>
         </table>
+      </div>
       </div>
     </div>
   )
