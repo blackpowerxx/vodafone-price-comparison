@@ -28,12 +28,13 @@ export function getMeta(): MetaFile {
 export function buildDeviceRows(
   catalog: DeviceCatalog,
   pricesFile: PricesFile,
+  vodafoneSource: string,
 ): DeviceRow[] {
   return catalog.devices
     .map((device) => ({
       device,
       prices: pricesFile.prices[device.normalized_id] ?? {},
     }))
-    .filter((row) => Object.keys(row.prices).length > 0)
+    .filter((row) => row.prices[vodafoneSource] != null)
     .sort((a, b) => a.device.canonical_name.localeCompare(b.device.canonical_name))
 }

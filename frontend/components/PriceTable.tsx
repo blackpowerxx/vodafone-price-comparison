@@ -106,7 +106,7 @@ export default function PriceTable({ rows, sources, currency }: Props) {
 
       {/* Table */}
       <div className="overflow-x-auto rounded-xl border border-gray-200 shadow-sm bg-white">
-        <table className="w-full text-sm border-collapse">
+        <table className="w-full min-w-max text-sm border-collapse">
           <thead>
             <tr className="border-b border-gray-100">
               <th
@@ -127,12 +127,12 @@ export default function PriceTable({ rows, sources, currency }: Props) {
                 )
               })}
               <th
-                className="px-4 py-3.5 text-xs font-semibold text-gray-500 uppercase tracking-wide whitespace-nowrap text-center bg-gray-50 cursor-pointer"
+                className="px-4 py-3.5 text-xs font-semibold text-gray-500 uppercase tracking-wide whitespace-nowrap text-center bg-gray-50 cursor-pointer min-w-[8rem]"
                 onClick={() => toggleSort('cheapest')}
               >
                 Cheapest <SortIcon k="cheapest" />
               </th>
-              <th className="px-4 py-3.5 text-xs font-semibold text-gray-500 uppercase tracking-wide whitespace-nowrap text-center bg-gray-50 rounded-tr-xl">
+              <th className="px-4 py-3.5 text-xs font-semibold text-gray-500 uppercase tracking-wide whitespace-nowrap text-center bg-gray-50 rounded-tr-xl min-w-[8rem]">
                 vs Vodafone
               </th>
             </tr>

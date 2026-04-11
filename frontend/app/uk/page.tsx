@@ -15,7 +15,7 @@ export default function UKPage() {
   const catalog = getDevices()
   const prices = getPricesUK()
   const meta = getMeta()
-  const rows = buildDeviceRows(catalog, prices)
+  const rows = buildDeviceRows(catalog, prices, 'vodafone_uk')
   const hasData = Object.keys(prices.prices).length > 0
 
   return (

@@ -14,7 +14,7 @@ export default function DEPage() {
   const catalog = getDevices()
   const prices = getPricesDE()
   const meta = getMeta()
-  const rows = buildDeviceRows(catalog, prices)
+  const rows = buildDeviceRows(catalog, prices, 'vodafone_de')
   const hasData = Object.keys(prices.prices).length > 0
 
   return (
