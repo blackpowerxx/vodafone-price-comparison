@@ -206,10 +206,10 @@ function PriceCell({
   if (entry.monthly_price !== null && entry.contract_months !== null) {
     return (
       <span className={isMin ? 'font-bold text-green-700' : ''}>
-        <span className="block">{formatPrice(entry.monthly_price, currency)}/mo</span>
+        <span className="block">{formatPrice(entry.total_cost, currency)}</span>
         <span className="block text-xs text-gray-400">
-          {entry.upfront_price ? `${formatPrice(entry.upfront_price, currency)} upfront · ` : ''}
-          {entry.contract_months}mo total {formatPrice(entry.total_cost, currency)}
+          {formatPrice(entry.monthly_price, currency)}/mo × {entry.contract_months}mo
+          {entry.upfront_price ? ` + ${formatPrice(entry.upfront_price, currency)} upfront` : ''}
         </span>
       </span>
     )
