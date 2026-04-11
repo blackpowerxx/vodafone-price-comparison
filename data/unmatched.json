@@ -1,0 +1,16 @@
+{
+  "unmatched": [
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy Z Flip7 FE AI Smartphone mit Galaxy AI, KI-Handy mit Android, Faltbares Design, Breites Frontdisplay, 50-MP-Weitwinkelkamera, 256 GB, 8 GB RAM, White, 3 Jahre Herstellergarantie",
+      "scraped_at": "2026-04-11T13:10:26.717090+00:00",
+      "suggested_id": "samsung-galaxy-z-flip7-fe-galaxy-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "TCL 50 SE Mobiltelefon ohne SIM-Lock, 6,78\" FHD+ 90 Hz NXTVISION-Display, 4 GB RAM + 128 GB ROM, 50-MP-Kamera, 5010-mAh-Akku, 33-W-Schnellladung, Midnight Blue",
+      "scraped_at": "2026-04-11T13:10:43.617265+00:00",
+      "suggested_id": "tcl-50-se-mobiltelefon-sim-lock-128gb"
+    }
+  ]
+}

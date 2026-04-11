@@ -1,0 +1,5 @@
+playwright==1.52.0
+patchright==1.52.0
+rapidfuzz==3.9.3
+aiohttp==3.9.5
+python-slugify==8.0.4

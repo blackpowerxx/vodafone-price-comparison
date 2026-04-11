@@ -1,0 +1,1256 @@
+{
+  "devices": [
+    {
+      "normalized_id": "apple-iphone-17-pro-max-256gb",
+      "canonical_name": "Apple iPhone 17 Pro Max 256GB",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro Max",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 17 Pro Max 256 GB",
+        "iPhone 17 Pro Max 256GB",
+        "Apple iPhone 17 Pro Max"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-17-pro-max-512gb",
+      "canonical_name": "Apple iPhone 17 Pro Max 512GB",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro Max",
+      "storage_gb": 512,
+      "aliases": []
+    },
+    {
+      "normalized_id": "apple-iphone-17-pro-256gb",
+      "canonical_name": "Apple iPhone 17 Pro 256GB",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 17 Pro 256 GB",
+        "iPhone 17 Pro 256GB",
+        "Apple iPhone 17 Pro",
+        "APPLE iPhone 17 Pro 5G 256 GB Cosmic Orange Dual SIM"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-17-pro-512gb",
+      "canonical_name": "Apple iPhone 17 Pro 512GB",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "storage_gb": 512,
+      "aliases": [
+        "Apple iPhone 17 Pro 512GB",
+        "APPLE iPhone 17 Pro 5G 512 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-17-pro-128gb",
+      "canonical_name": "Apple iPhone 17 Pro 128GB",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 17 Pro 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-17-256gb",
+      "canonical_name": "Apple iPhone 17 256GB",
+      "brand": "Apple",
+      "model": "iPhone 17",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 17 256 GB",
+        "iPhone 17 256GB",
+        "Apple iPhone 17"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-17-128gb",
+      "canonical_name": "Apple iPhone 17 128GB",
+      "brand": "Apple",
+      "model": "iPhone 17",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 17 128 GB",
+        "iPhone 17 128GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-16-pro-max-256gb",
+      "canonical_name": "Apple iPhone 16 Pro Max 256GB",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro Max",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 16 Pro Max 256 GB",
+        "iPhone 16 Pro Max 256GB",
+        "Apple iPhone 16 Pro Max"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-16-pro-max-512gb",
+      "canonical_name": "Apple iPhone 16 Pro Max 512GB",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro Max",
+      "storage_gb": 512,
+      "aliases": []
+    },
+    {
+      "normalized_id": "apple-iphone-16-pro-256gb",
+      "canonical_name": "Apple iPhone 16 Pro 256GB",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 16 Pro 256 GB",
+        "iPhone 16 Pro 256GB",
+        "Apple iPhone 16 Pro"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-16-pro-128gb",
+      "canonical_name": "Apple iPhone 16 Pro 128GB",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 16 Pro 128 GB",
+        "iPhone 16 Pro 128GB Natural Titanium",
+        "Apple iPhone 16 Pro 128GB Black Titanium",
+        "Apple iPhone 16 Pro, 128GB, Titan Schwarz (General\u00fcberholt)"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-16e-128gb",
+      "canonical_name": "Apple iPhone 16e 128GB",
+      "brand": "Apple",
+      "model": "iPhone 16e",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 16e 128 GB",
+        "iPhone 16e 128GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-16e-256gb",
+      "canonical_name": "Apple iPhone 16e 256GB",
+      "brand": "Apple",
+      "model": "iPhone 16e",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 16e 256 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-16-256gb",
+      "canonical_name": "Apple iPhone 16 256GB",
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 16 256 GB",
+        "iPhone 16 256GB",
+        "Apple iPhone 16"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-16-128gb",
+      "canonical_name": "Apple iPhone 16 128GB",
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 16 128 GB",
+        "iPhone 16 128GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-15-pro-max-256gb",
+      "canonical_name": "Apple iPhone 15 Pro Max 256GB",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 15 Pro Max 256 GB",
+        "iPhone 15 Pro Max 256GB",
+        "Apple iPhone 15 Pro Max"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-15-pro-256gb",
+      "canonical_name": "Apple iPhone 15 Pro 256GB",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 15 Pro 256 GB",
+        "iPhone 15 Pro 256GB",
+        "Apple iPhone 15 Pro"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-15-pro-128gb",
+      "canonical_name": "Apple iPhone 15 Pro 128GB",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 15 Pro 128 GB",
+        "iPhone 15 Pro 128GB Natural Titanium"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-15-256gb",
+      "canonical_name": "Apple iPhone 15 256GB",
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 15 256 GB",
+        "iPhone 15 256GB",
+        "Apple iPhone 15"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-15-128gb",
+      "canonical_name": "Apple iPhone 15 128GB",
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 15 128 GB",
+        "iPhone 15 128GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s26-ultra-256gb",
+      "canonical_name": "Samsung Galaxy S26 Ultra 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S26 Ultra",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S26 Ultra 256 GB",
+        "SAMSUNG Galaxy S26 Ultra 256GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s26-ultra-512gb",
+      "canonical_name": "Samsung Galaxy S26 Ultra 512GB",
+      "brand": "Samsung",
+      "model": "Galaxy S26 Ultra",
+      "storage_gb": 512,
+      "aliases": []
+    },
+    {
+      "normalized_id": "samsung-galaxy-s26-plus-256gb",
+      "canonical_name": "Samsung Galaxy S26+ 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S26+",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S26 Plus 256GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s26-128gb",
+      "canonical_name": "Samsung Galaxy S26 128GB",
+      "brand": "Samsung",
+      "model": "Galaxy S26",
+      "storage_gb": 128,
+      "aliases": [
+        "Samsung Galaxy S26 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s25-ultra-256gb",
+      "canonical_name": "Samsung Galaxy S25 Ultra 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S25 Ultra 256 GB",
+        "SAMSUNG Galaxy S25 Ultra 256GB",
+        "Samsung Galaxy S25 Ultra",
+        "Samsung Galaxy S25 Ultra 5G",
+        "Samsung Galaxy S25 Ultra AI Smartphone mit Galaxy AI, Ohne Vertrag, Handy mit Android, 12 GB RAM, 256 GB Speicher, 200-MP-Kamera, Titanium Black, 3 Jahre Herstellergarantie [Exklusiv auf Amazon]",
+        "Samsung Galaxy S25 Ultra Smartphone 256GB, 12GB RAM, 200MP Kamera - Schwarz"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s25-ultra-512gb",
+      "canonical_name": "Samsung Galaxy S25 Ultra 512GB",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra",
+      "storage_gb": 512,
+      "aliases": []
+    },
+    {
+      "normalized_id": "samsung-galaxy-s25-plus-256gb",
+      "canonical_name": "Samsung Galaxy S25+ 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S25+",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S25 Plus 256GB",
+        "Samsung Galaxy S25+ 256 GB",
+        "Samsung Galaxy S25 Plus",
+        "Samsung Galaxy S25+",
+        "Samsung S25 Plus",
+        "SM-S936"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s25-256gb",
+      "canonical_name": "Samsung Galaxy S25 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S25 256 GB",
+        "Samsung Galaxy S25",
+        "Samsung Galaxy S25 5G",
+        "Samsung S25",
+        "SM-S931"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s25-128gb",
+      "canonical_name": "Samsung Galaxy S25 128GB",
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "storage_gb": 128,
+      "aliases": [
+        "Samsung Galaxy S25 128 GB",
+        "SAMSUNG Galaxy S25 128GB",
+        "Samsung Galaxy S25 12gb/128gb 6.2\u00b4\u00b4 One Size",
+        "Samsung Galaxy S25 128GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s25-fe-256gb",
+      "canonical_name": "Samsung Galaxy S25 FE 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S25 FE",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S25 FE 256 GB",
+        "Smartphone Samsung Galaxy S25 FE 6,7\" 75\" 8 GB RAM 256 GB Nero"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s24-256gb",
+      "canonical_name": "Samsung Galaxy S24 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S24 256 GB",
+        "SAMSUNG Galaxy S24 256GB",
+        "Samsung Galaxy S24"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s24-128gb",
+      "canonical_name": "Samsung Galaxy S24 128GB",
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "storage_gb": 128,
+      "aliases": [
+        "Samsung Galaxy S24 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s24-ultra-256gb",
+      "canonical_name": "Samsung Galaxy S24 Ultra 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S24 Ultra",
+        "Samsung Galaxy S24 Ultra 5G 256GB",
+        "SAMSUNG Galaxy S24 Ultra 256GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s24-ultra-512gb",
+      "canonical_name": "Samsung Galaxy S24 Ultra 512GB",
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "storage_gb": 512,
+      "aliases": [
+        "Samsung Galaxy S24 Ultra 5G 512GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-a56-256gb",
+      "canonical_name": "Samsung Galaxy A56 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy A56",
+      "storage_gb": 256,
+      "aliases": []
+    },
+    {
+      "normalized_id": "google-pixel-10-pro-256gb",
+      "canonical_name": "Google Pixel 10 Pro 256GB",
+      "brand": "Google",
+      "model": "Pixel 10 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Google Pixel 10 Pro 256 GB",
+        "Pixel 10 Pro 256GB"
+      ]
+    },
+    {
+      "normalized_id": "google-pixel-10-pro-128gb",
+      "canonical_name": "Google Pixel 10 Pro 128GB",
+      "brand": "Google",
+      "model": "Pixel 10 Pro",
+      "storage_gb": 128,
+      "aliases": [
+        "Google Pixel 10 Pro 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "google-pixel-10-128gb",
+      "canonical_name": "Google Pixel 10 128GB",
+      "brand": "Google",
+      "model": "Pixel 10",
+      "storage_gb": 128,
+      "aliases": [
+        "Google Pixel 10 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "google-pixel-9-pro-256gb",
+      "canonical_name": "Google Pixel 9 Pro 256GB",
+      "brand": "Google",
+      "model": "Pixel 9 Pro",
+      "storage_gb": 256,
+      "aliases": []
+    },
+    {
+      "normalized_id": "google-pixel-9-pro-128gb",
+      "canonical_name": "Google Pixel 9 Pro 128GB",
+      "brand": "Google",
+      "model": "Pixel 9 Pro",
+      "storage_gb": 128,
+      "aliases": [
+        "Google Pixel 9 Pro 128 GB",
+        "Pixel 9 Pro 128GB"
+      ]
+    },
+    {
+      "normalized_id": "google-pixel-9-256gb",
+      "canonical_name": "Google Pixel 9 256GB",
+      "brand": "Google",
+      "model": "Pixel 9",
+      "storage_gb": 256,
+      "aliases": []
+    },
+    {
+      "normalized_id": "google-pixel-9-128gb",
+      "canonical_name": "Google Pixel 9 128GB",
+      "brand": "Google",
+      "model": "Pixel 9",
+      "storage_gb": 128,
+      "aliases": [
+        "Google Pixel 9 128 GB",
+        "Pixel 9 128GB"
+      ]
+    },
+    {
+      "normalized_id": "oneplus-13-512gb",
+      "canonical_name": "OnePlus 13 512GB",
+      "brand": "OnePlus",
+      "model": "13",
+      "storage_gb": 512,
+      "aliases": []
+    },
+    {
+      "normalized_id": "oneplus-13-256gb",
+      "canonical_name": "OnePlus 13 256GB",
+      "brand": "OnePlus",
+      "model": "13",
+      "storage_gb": 256,
+      "aliases": [
+        "OnePlus 13 256 GB",
+        "One Plus 13 256GB"
+      ]
+    },
+    {
+      "normalized_id": "nothing-phone-3a-pro-256gb",
+      "canonical_name": "Nothing Phone (3a) Pro 256GB",
+      "brand": "Nothing",
+      "model": "Phone (3a) Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Nothing Phone 3a Pro 256GB"
+      ]
+    },
+    {
+      "normalized_id": "nothing-phone-3a-256gb",
+      "canonical_name": "Nothing Phone (3a) 256GB",
+      "brand": "Nothing",
+      "model": "Phone (3a)",
+      "storage_gb": 256,
+      "aliases": [
+        "Nothing Phone 3a 256GB"
+      ]
+    },
+    {
+      "normalized_id": "nothing-phone-3a-128gb",
+      "canonical_name": "Nothing Phone (3a) 128GB",
+      "brand": "Nothing",
+      "model": "Phone (3a)",
+      "storage_gb": 128,
+      "aliases": [
+        "Nothing Phone 3a 128GB",
+        "Nothing Phone(3a) 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "sony-xperia-1-v-256gb",
+      "canonical_name": "Sony Xperia 1 V 256GB",
+      "brand": "Sony",
+      "model": "Xperia 1 V",
+      "storage_gb": 256,
+      "aliases": [
+        "Sony Xperia 1 V"
+      ]
+    },
+    {
+      "normalized_id": "sony-xperia-1-vi-256gb",
+      "canonical_name": "Sony Xperia 1 VI 256GB",
+      "brand": "Sony",
+      "model": "Xperia 1 VI",
+      "storage_gb": 256,
+      "aliases": [
+        "Sony Xperia 1 VI 256 GB"
+      ]
+    },
+    {
+      "normalized_id": "sony-xperia-1-vi-512gb",
+      "canonical_name": "Sony Xperia 1 VI 512GB",
+      "brand": "Sony",
+      "model": "Xperia 1 VI",
+      "storage_gb": 512,
+      "aliases": []
+    },
+    {
+      "normalized_id": "motorola-edge-50-pro-256gb",
+      "canonical_name": "Motorola Edge 50 Pro 256GB",
+      "brand": "Motorola",
+      "model": "Edge 50 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Motorola Edge 50 Pro 256 GB"
+      ]
+    },
+    {
+      "normalized_id": "motorola-moto-g85-256gb",
+      "canonical_name": "Motorola Moto G85 256GB",
+      "brand": "Motorola",
+      "model": "Moto G85",
+      "storage_gb": 256,
+      "aliases": []
+    },
+    {
+      "normalized_id": "samsung-galaxy-a57",
+      "canonical_name": "Samsung Galaxy A57",
+      "brand": "Samsung",
+      "model": "Galaxy A57",
+      "storage_gb": null,
+      "aliases": [
+        "Samsung Galaxy A57 5G"
+      ]
+    },
+    {
+      "normalized_id": "google-pixel-10-pro-xl",
+      "canonical_name": "Google Pixel 10 Pro XL",
+      "brand": "Google",
+      "model": "Pixel 10 Pro XL",
+      "storage_gb": null,
+      "aliases": [
+        "Google Pixel 10 Pro XL"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-17e",
+      "canonical_name": "Apple iPhone 17e",
+      "brand": "Apple",
+      "model": "iPhone 17e",
+      "storage_gb": null,
+      "aliases": [
+        "Apple iPhone 17e"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-air",
+      "canonical_name": "Apple iPhone Air",
+      "brand": "Apple",
+      "model": "iPhone Air",
+      "storage_gb": null,
+      "aliases": [
+        "Apple iPhone Air"
+      ]
+    },
+    {
+      "normalized_id": "honor-magic8-pro",
+      "canonical_name": "HONOR Magic8 Pro",
+      "brand": "Unknown",
+      "model": "HONOR Magic8 Pro",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR Magic8 Pro"
+      ]
+    },
+    {
+      "normalized_id": "motorola-moto-g35",
+      "canonical_name": "Motorola moto g35",
+      "brand": "Motorola",
+      "model": "moto g35",
+      "storage_gb": null,
+      "aliases": [
+        "Motorola moto g35"
+      ]
+    },
+    {
+      "normalized_id": "honor-400-lite",
+      "canonical_name": "HONOR 400 Lite",
+      "brand": "Unknown",
+      "model": "HONOR 400 Lite",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR 400 Lite"
+      ]
+    },
+    {
+      "normalized_id": "motorola-razr-60",
+      "canonical_name": "Motorola Razr 60",
+      "brand": "Motorola",
+      "model": "Razr 60",
+      "storage_gb": null,
+      "aliases": [
+        "Motorola Razr 60 Ultra"
+      ]
+    },
+    {
+      "normalized_id": "honor-400-pro",
+      "canonical_name": "HONOR 400 Pro",
+      "brand": "Unknown",
+      "model": "HONOR 400 Pro",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR 400 Pro"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-z-fold7",
+      "canonical_name": "Samsung Galaxy Z Fold7",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold7",
+      "storage_gb": null,
+      "aliases": [
+        "Samsung Galaxy Z Fold7"
+      ]
+    },
+    {
+      "normalized_id": "motorola-edge-70",
+      "canonical_name": "Motorola Edge 70",
+      "brand": "Motorola",
+      "model": "Edge 70",
+      "storage_gb": null,
+      "aliases": [
+        "Motorola Edge 70"
+      ]
+    },
+    {
+      "normalized_id": "honor-magic7-lite",
+      "canonical_name": "HONOR Magic7 Lite",
+      "brand": "Unknown",
+      "model": "HONOR Magic7 Lite",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR Magic7 Lite"
+      ]
+    },
+    {
+      "normalized_id": "google-pixel-10a",
+      "canonical_name": "Google Pixel 10a",
+      "brand": "Google",
+      "model": "Pixel 10a",
+      "storage_gb": null,
+      "aliases": [
+        "Google Pixel 10a"
+      ]
+    },
+    {
+      "normalized_id": "honor-400-smart",
+      "canonical_name": "HONOR 400 Smart",
+      "brand": "Unknown",
+      "model": "HONOR 400 Smart",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR 400 Smart"
+      ]
+    },
+    {
+      "normalized_id": "honor-magic-v5",
+      "canonical_name": "HONOR Magic V5",
+      "brand": "Unknown",
+      "model": "HONOR Magic V5",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR Magic V5"
+      ]
+    },
+    {
+      "normalized_id": "honor-400",
+      "canonical_name": "HONOR 400",
+      "brand": "Unknown",
+      "model": "HONOR 400",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR 400"
+      ]
+    },
+    {
+      "normalized_id": "doro-aurora-a30",
+      "canonical_name": "Doro Aurora A30",
+      "brand": "Unknown",
+      "model": "Doro Aurora A30",
+      "storage_gb": null,
+      "aliases": [
+        "Doro Aurora A30"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s25-edge",
+      "canonical_name": "Samsung Galaxy S25 Edge",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Edge",
+      "storage_gb": null,
+      "aliases": [
+        "Samsung Galaxy S25 Edge"
+      ]
+    },
+    {
+      "normalized_id": "doro-8100",
+      "canonical_name": "Doro 8100",
+      "brand": "Unknown",
+      "model": "Doro 8100",
+      "storage_gb": null,
+      "aliases": [
+        "Doro 8100"
+      ]
+    },
+    {
+      "normalized_id": "google-pixel-9-pro-fold",
+      "canonical_name": "Google Pixel 9 Pro Fold",
+      "brand": "Google",
+      "model": "Pixel 9 Pro Fold",
+      "storage_gb": null,
+      "aliases": [
+        "Google Pixel 9 Pro Fold"
+      ]
+    },
+    {
+      "normalized_id": "hmd-fuse",
+      "canonical_name": "HMD Fuse",
+      "brand": "Unknown",
+      "model": "HMD Fuse",
+      "storage_gb": null,
+      "aliases": [
+        "HMD Fuse"
+      ]
+    },
+    {
+      "normalized_id": "honor-200-smart",
+      "canonical_name": "Honor 200 Smart",
+      "brand": "Unknown",
+      "model": "Honor 200 Smart",
+      "storage_gb": null,
+      "aliases": [
+        "Honor 200 Smart"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-xcover7",
+      "canonical_name": "Samsung Galaxy XCover7",
+      "brand": "Samsung",
+      "model": "Galaxy XCover7",
+      "storage_gb": null,
+      "aliases": [
+        "Samsung Galaxy XCover7"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-14-pro",
+      "canonical_name": "Apple iPhone 14 Pro",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "storage_gb": null,
+      "aliases": [
+        "Apple iPhone 14 Pro (Refurbished-Good)",
+        "Apple iPhone 14 Pro Max",
+        "Apple iPhone 14 Pro 256GB",
+        "Apple iPhone 14 Pro"
+      ]
+    },
+    {
+      "normalized_id": "sony-xperia-1-vi-256gb",
+      "canonical_name": "Sony Xperia 1 VI 256GB",
+      "brand": "Sony",
+      "model": "Xperia 1 VI 6 5 Nano SIM Schwarz",
+      "storage_gb": 256,
+      "aliases": [
+        "Sony Xperia 1 VI Smartphone 6,5 Zoll 5G Nano SIM 256GB Schwarz",
+        "Sony Xperia 1 VI 6.5\" 256GB",
+        "Xperia 1 VI Schwarz 256GB",
+        "Sony Xperia 1 VI Nano SIM 256GB"
+      ]
+    },
+    {
+      "normalized_id": "sony-xperia-1-iv-dual-256gb",
+      "canonical_name": "Sony Xperia 1 IV Dual 256GB",
+      "brand": "Sony",
+      "model": "Xperia 1 IV Dual",
+      "storage_gb": 256,
+      "aliases": [
+        "Sony Xperia 1 IV 5G, Dual, 256Gb 12Gb Ram, Black",
+        "Sony Xperia 1 IV 256GB Dual SIM"
+      ]
+    },
+    {
+      "normalized_id": "motorola-edge-70-fusion-256gb",
+      "canonical_name": "Motorola edge 70 fusion 256GB",
+      "brand": "Motorola",
+      "model": "edge 70 fusion",
+      "storage_gb": 256,
+      "aliases": [
+        "motorola edge 70 fusion 256GB"
+      ]
+    },
+    {
+      "normalized_id": "honor-magic8-pro-rayban-meta",
+      "canonical_name": "HONOR Magic8 Pro RayBan Meta",
+      "brand": "Unknown",
+      "model": "HONOR Magic8 Pro RayBan Meta",
+      "storage_gb": null,
+      "aliases": [
+        "HONOR Magic8 Pro + RayBan Meta"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-17",
+      "canonical_name": "Xiaomi 17",
+      "brand": "Xiaomi",
+      "model": "17",
+      "storage_gb": null,
+      "aliases": [
+        "Xiaomi 17 Ultra"
+      ]
+    },
+    {
+      "normalized_id": "motorola-signature-512gb",
+      "canonical_name": "Motorola signature 512GB",
+      "brand": "Motorola",
+      "model": "signature",
+      "storage_gb": 512,
+      "aliases": [
+        "motorola signature 512GB"
+      ]
+    },
+    {
+      "normalized_id": "motorola-moto-g77-256gb",
+      "canonical_name": "Motorola moto g77 256GB",
+      "brand": "Motorola",
+      "model": "moto g77",
+      "storage_gb": 256,
+      "aliases": [
+        "motorola moto g77 256GB"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-redmi-note-15-pro-256gb",
+      "canonical_name": "Xiaomi Redmi Note 15 Pro 256GB",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 15 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Xiaomi Redmi Note 15 Pro 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "telekom-t-phone-3-pro",
+      "canonical_name": "Telekom T Phone 3 Pro",
+      "brand": "Unknown",
+      "model": "Telekom T Phone 3 Pro",
+      "storage_gb": null,
+      "aliases": [
+        "Telekom T Phone 3 Pro"
+      ]
+    },
+    {
+      "normalized_id": "fairphone-6-256gb",
+      "canonical_name": "Fairphone 6 256GB",
+      "brand": "Unknown",
+      "model": "Fairphone 6",
+      "storage_gb": 256,
+      "aliases": [
+        "Fairphone 6 256GB"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-15t-pro-512gb",
+      "canonical_name": "Xiaomi 15T Pro 512GB",
+      "brand": "Xiaomi",
+      "model": "15T Pro",
+      "storage_gb": 512,
+      "aliases": [
+        "Xiaomi 15T Pro 512GB"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-15t-256gb",
+      "canonical_name": "Xiaomi 15T 256GB",
+      "brand": "Xiaomi",
+      "model": "15T",
+      "storage_gb": 256,
+      "aliases": [
+        "Xiaomi 15T 256GB"
+      ]
+    },
+    {
+      "normalized_id": "motorola-edge-60-neo",
+      "canonical_name": "Motorola edge 60 neo",
+      "brand": "Motorola",
+      "model": "edge 60 neo",
+      "storage_gb": null,
+      "aliases": [
+        "motorola edge 60 neo"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-17-nebelblau-256gb",
+      "canonical_name": "Apple iPhone 17 Nebelblau 256GB",
+      "brand": "Apple",
+      "model": "iPhone 17 Nebelblau",
+      "storage_gb": 256,
+      "aliases": [
+        "APPLE iPhone 17 5G 256 GB Nebelblau Dual SIM"
+      ]
+    },
+    {
+      "normalized_id": "oneplus-15-256gb",
+      "canonical_name": "OnePlus 15 256GB",
+      "brand": "OnePlus",
+      "model": "15",
+      "storage_gb": 256,
+      "aliases": [
+        "OnePlus 15 Dual SIM 256GB",
+        "OnePlus 15 Snapdragon 256GB",
+        "OnePlus 15",
+        "OnePlus 15 5G"
+      ]
+    },
+    {
+      "normalized_id": "oneplus-15-512gb",
+      "canonical_name": "OnePlus 15 512GB",
+      "brand": "OnePlus",
+      "model": "15",
+      "storage_gb": 512,
+      "aliases": [
+        "OnePlus 15 512GB 5G"
+      ]
+    },
+    {
+      "normalized_id": "oneplus-15r-256gb",
+      "canonical_name": "OnePlus 15R 256GB",
+      "brand": "OnePlus",
+      "model": "15R",
+      "storage_gb": 256,
+      "aliases": [
+        "OnePlus 15R 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "nothing-phone-4a-256gb",
+      "canonical_name": "Nothing Phone 4a 256GB",
+      "brand": "Nothing",
+      "model": "Phone 4a",
+      "storage_gb": 256,
+      "aliases": [
+        "Nothing 4a 256GB",
+        "Nothing Phone 4a"
+      ]
+    },
+    {
+      "normalized_id": "sony-xperia-1-vii-256gb",
+      "canonical_name": "Sony Xperia 1 VII 256GB",
+      "brand": "Sony",
+      "model": "Xperia 1 VII",
+      "storage_gb": 256,
+      "aliases": [
+        "Sony Xperia 1 VII"
+      ]
+    },
+    {
+      "normalized_id": "sony-xperia-10-vii",
+      "canonical_name": "Sony Xperia 10 VII",
+      "brand": "Sony",
+      "model": "Xperia 10 VII",
+      "storage_gb": null,
+      "aliases": [
+        "Sony Xperia 10 VII 5G"
+      ]
+    },
+    {
+      "normalized_id": "vivo-v50-256gb",
+      "canonical_name": "Vivo V50 256GB",
+      "brand": "Vivo",
+      "model": "V50",
+      "storage_gb": 256,
+      "aliases": [
+        "Vivo V50 5G 256GB",
+        "Vivo V50"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-poco-x8-256gb",
+      "canonical_name": "Xiaomi POCO X8 256GB",
+      "brand": "Xiaomi",
+      "model": "POCO X8",
+      "storage_gb": 256,
+      "aliases": [
+        "Xiaomi POCO X8 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "tcl-nxtpaper-70-pro",
+      "canonical_name": "TCL NXTPAPER 70 Pro",
+      "brand": "TCL",
+      "model": "NXTPAPER 70 Pro",
+      "storage_gb": null,
+      "aliases": [
+        "TCL NXT70 Pro",
+        "TCL 70 Pro"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s24-plus-256gb",
+      "canonical_name": "Samsung Galaxy S24 Plus 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S24 Plus",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S24+",
+        "Samsung Galaxy S24 Plus",
+        "Samsung Galaxy S24 Plus 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s23-ultra-256gb",
+      "canonical_name": "Samsung Galaxy S23 Ultra 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S23 Ultra",
+        "Samsung Galaxy S23 Ultra 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s23-256gb",
+      "canonical_name": "Samsung Galaxy S23 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S23",
+        "Samsung Galaxy S23 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s22-ultra-256gb",
+      "canonical_name": "Samsung Galaxy S22 Ultra 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S22 Ultra",
+        "Samsung Galaxy S22 Ultra 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "samsung-galaxy-s22-256gb",
+      "canonical_name": "Samsung Galaxy S22 256GB",
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "storage_gb": 256,
+      "aliases": [
+        "Samsung Galaxy S22",
+        "Samsung Galaxy S22 5G 256GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-13-pro-256gb",
+      "canonical_name": "Apple iPhone 13 Pro 256GB",
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 13 Pro",
+        "Apple iPhone 13 Pro 256 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-13-pro-128gb",
+      "canonical_name": "Apple iPhone 13 Pro 128GB",
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 13 Pro 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-13-256gb",
+      "canonical_name": "Apple iPhone 13 256GB",
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 13",
+        "Apple iPhone 13 256 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-13-128gb",
+      "canonical_name": "Apple iPhone 13 128GB",
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 13 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-12-256gb",
+      "canonical_name": "Apple iPhone 12 256GB",
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "storage_gb": 256,
+      "aliases": [
+        "Apple iPhone 12",
+        "Apple iPhone 12 256 GB"
+      ]
+    },
+    {
+      "normalized_id": "apple-iphone-12-128gb",
+      "canonical_name": "Apple iPhone 12 128GB",
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "storage_gb": 128,
+      "aliases": [
+        "Apple iPhone 12 128 GB"
+      ]
+    },
+    {
+      "normalized_id": "vivo-v50-512gb",
+      "canonical_name": "Vivo V50 512GB",
+      "brand": "vivo",
+      "model": "V50",
+      "storage_gb": 512,
+      "aliases": [
+        "vivo V50 512GB",
+        "Vivo V50 5G 512GB",
+        "Vivo V50"
+      ]
+    },
+    {
+      "normalized_id": "nothing-phone-3-256gb",
+      "canonical_name": "Nothing Phone 3 256GB",
+      "brand": "Nothing",
+      "model": "Phone 3",
+      "storage_gb": 256,
+      "aliases": [
+        "Nothing Phone (3)",
+        "Nothing Phone (3) 256GB"
+      ]
+    },
+    {
+      "normalized_id": "oneplus-nord-5-256gb",
+      "canonical_name": "OnePlus Nord 5 256GB",
+      "brand": "OnePlus",
+      "model": "Nord 5",
+      "storage_gb": 256,
+      "aliases": [
+        "OnePlus Nord 5"
+      ]
+    },
+    {
+      "normalized_id": "vivo-v50-lite-256gb",
+      "canonical_name": "vivo V50 Lite 256GB",
+      "brand": "vivo",
+      "model": "V50 Lite",
+      "storage_gb": 256,
+      "aliases": [
+        "vivo V50 Lite"
+      ]
+    },
+    {
+      "normalized_id": "vivo-x300-pro-512gb",
+      "canonical_name": "vivo X300 Pro 512GB",
+      "brand": "vivo",
+      "model": "X300 Pro",
+      "storage_gb": 512,
+      "aliases": [
+        "vivo X300 Pro"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-poco-x8-pro-256gb",
+      "canonical_name": "Xiaomi Poco X8 Pro 256GB",
+      "brand": "Xiaomi",
+      "model": "Poco X8 Pro",
+      "storage_gb": 256,
+      "aliases": [
+        "Xiaomi Poco X8 Pro",
+        "POCO X8 Pro"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-poco-x8-pro-512gb",
+      "canonical_name": "Xiaomi Poco X8 Pro 512GB",
+      "brand": "Xiaomi",
+      "model": "Poco X8 Pro",
+      "storage_gb": 512,
+      "aliases": [
+        "Xiaomi Poco X8 Pro 512GB"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-poco-x8-pro-max-256gb",
+      "canonical_name": "Xiaomi Poco X8 Pro Max 256GB",
+      "brand": "Xiaomi",
+      "model": "Poco X8 Pro Max",
+      "storage_gb": 256,
+      "aliases": [
+        "Xiaomi Poco X8 Pro Max"
+      ]
+    },
+    {
+      "normalized_id": "xiaomi-poco-x8-pro-max-512gb",
+      "canonical_name": "Xiaomi Poco X8 Pro Max 512GB",
+      "brand": "Xiaomi",
+      "model": "Poco X8 Pro Max",
+      "storage_gb": 512,
+      "aliases": [
+        "Xiaomi Poco X8 Pro Max 512GB"
+      ]
+    }
+  ]
+}
