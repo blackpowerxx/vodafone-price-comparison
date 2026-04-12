@@ -1,60 +1,60 @@
 {
-  "last_full_scrape": "2026-04-11T13:09:21.177484+00:00",
+  "last_full_scrape": "2026-04-12T04:50:27.785648+00:00",
   "sources": {
     "vodafone_uk": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.464204+00:00",
+      "scraped_at": "2026-04-12T04:52:02.561024+00:00",
       "device_count": 33
     },
     "ee": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.466557+00:00",
+      "scraped_at": "2026-04-12T04:52:02.562482+00:00",
       "device_count": 11
     },
     "o2_uk": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.466631+00:00",
+      "scraped_at": "2026-04-12T04:52:02.562533+00:00",
       "device_count": 0
     },
     "three_uk": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.468013+00:00",
+      "scraped_at": "2026-04-12T04:52:02.563939+00:00",
       "device_count": 11
     },
     "amazon_uk": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.469178+00:00",
-      "device_count": 5
+      "scraped_at": "2026-04-12T04:52:02.564212+00:00",
+      "device_count": 1
     },
     "currys": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.469349+00:00",
+      "scraped_at": "2026-04-12T04:52:02.564254+00:00",
       "device_count": 0
     },
     "vodafone_de": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.471632+00:00",
+      "scraped_at": "2026-04-12T04:52:02.565813+00:00",
       "device_count": 10
     },
     "telekom_de": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.475212+00:00",
+      "scraped_at": "2026-04-12T04:52:02.568279+00:00",
       "device_count": 16
     },
     "o2_de": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.475823+00:00",
+      "scraped_at": "2026-04-12T04:52:02.568935+00:00",
       "device_count": 6
     },
     "amazon_de": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.492474+00:00",
-      "device_count": 46
+      "scraped_at": "2026-04-12T04:52:02.577295+00:00",
+      "device_count": 23
     },
     "mediamarkt_de": {
       "status": "ok",
-      "scraped_at": "2026-04-11T13:11:00.493910+00:00",
-      "device_count": 7
+      "scraped_at": "2026-04-12T04:52:02.578834+00:00",
+      "device_count": 8
     }
   }
 }
