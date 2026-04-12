@@ -85,7 +85,6 @@ class VodafoneDEScraper(BaseScraper):
         """Parse Vodafone DE /glados/v2/hardware/v2 API response."""
         devices = (data.get("data", {}) or {}).get("devices") or []
         if not devices:
-            # Also try top-level lists
             devices = data if isinstance(data, list) else (
                 data.get("products") or data.get("results") or data.get("devices") or []
             )
@@ -98,20 +97,50 @@ class VodafoneDEScraper(BaseScraper):
             if not name:
                 continue
 
-            # Price may be nested in several ways
-            monthly = self._extract_price(item, ["monthlyPrice", "monatspreis", "monthlyRate"])
-            upfront = self._extract_price(item, ["upfrontPrice", "einmalpreis", "oneTimePrice"]) or 0.0
-
             hubpage = item.get("hubpage") or {}
             href = hubpage.get("href") if isinstance(hubpage, dict) else None
             url = BASE_URL + href if href else PHONES_URL
 
-            if name and monthly:
+            # Extract device price from nested prices.composition structure
+            device_price = None
+            hw_monthly = None
+            hw_upfront = 0.0
+            contract_months = 24
+
+            compositions = (item.get("prices") or {}).get("composition") or []
+            if compositions:
+                comp = compositions[0]
+                contract_months = comp.get("financingDuration") or 24
+                hw = (comp.get("priceByComponent") or {}).get("hardware") or {}
+                price_types = hw.get("priceByType") or {}
+
+                # Total device price at Vodafone (hardware installments total)
+                total_hw = (price_types.get("total") or {}).get("onetime", {})
+                device_price = (total_hw.get("withoutDiscounts") or {}).get("gross")
+
+                # Monthly hardware rate
+                rate_month = (price_types.get("rate") or {}).get("month", {})
+                rate_month_val = rate_month.get("withoutDiscounts") or {}
+                if isinstance(rate_month_val, list):
+                    rate_month_val = rate_month_val[0] if rate_month_val else {}
+                hw_monthly = rate_month_val.get("gross")
+
+                # One-time hardware upfront
+                rate_onetime = (price_types.get("rate") or {}).get("onetime", {})
+                hw_upfront = ((rate_onetime.get("withoutDiscounts") or {}).get("gross") or 0.0)
+
+            # Fallback to simple flat fields
+            if device_price is None:
+                device_price = self._extract_price(item, ["devicePrice", "hardwarePrice", "geraetepreis"])
+            if hw_monthly is None:
+                hw_monthly = self._extract_price(item, ["monthlyPrice", "monatspreis", "monthlyRate"])
+
+            if name and device_price is not None:
                 records.append(PriceRecord(
                     raw_name=name,
-                    upfront_price=float(upfront),
-                    monthly_price=float(monthly),
-                    contract_months=24,
+                    upfront_price=float(device_price),   # total device buy price (hardware only)
+                    monthly_price=None,
+                    contract_months=None,
                     url=url,
                     currency="EUR",
                 ))
