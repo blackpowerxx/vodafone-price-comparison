@@ -17,6 +17,12 @@
       "raw_name": "vivo X200 FE 5G Smartphone, 12 GB + 256 GB, 6,31” Kompaktes Design, 120 Hz Bildwiederholungsrate, 50 MP ZEISS Periskop-Telekamera mit KI-Bildverarbeitung, 5300 mAh Akku, Dimensity 9300+, IP68",
       "scraped_at": "2026-04-12T04:52:02.423858+00:00",
       "suggested_id": "vivo-x200-fe-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "VIVO Smartphone Y55 6,58\" Blau 4GB RAM 128GB",
+      "scraped_at": "2026-04-13T05:19:06.178237+00:00",
+      "suggested_id": "vivo-y55-6-128gb"
     }
   ]
 }
