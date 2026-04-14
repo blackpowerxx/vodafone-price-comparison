@@ -23,6 +23,42 @@
       "raw_name": "VIVO Smartphone Y55 6,58\" Blau 4GB RAM 128GB",
       "scraped_at": "2026-04-13T05:19:06.178237+00:00",
       "suggested_id": "vivo-y55-6-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple EarPods (USB-C) ​​​​​​​",
+      "scraped_at": "2026-04-14T04:49:27.390868+00:00",
+      "suggested_id": "apple-earpods-usb-c"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 6 Smartphone (15,95 cm (6,28 Zoll) 19:9 Touch-Display, 128 GB interner Speicher, Android 8.1 Oreo / Oxygen OS 5.1), Mirror Black",
+      "scraped_at": "2026-04-14T04:49:57.819423+00:00",
+      "suggested_id": "oneplus-6-15-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 10T 5G 8GB RAM 128GB SIM-freies Smartphone mit 150 W SUPERVOOC Endurance Edition und Dreifach-Kamera-Setup mit 50 MP - 2 Jahre Garantie - Jade Green",
+      "scraped_at": "2026-04-14T04:49:57.837781+00:00",
+      "suggested_id": "oneplus-10t-150-w-supervooc-endurance-edition-setup-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 9 Pro – Smartphone entsperrt 5G – Foto Hasselblad – 12 GB RAM + 256 GB Speicher – 2 Jahre Herstellergarantie – Pine Green [FR-Version]",
+      "scraped_at": "2026-04-14T04:50:00.702300+00:00",
+      "suggested_id": "oneplus-9-pro-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 6 Smartphone (15,95 cm (6,28 Zoll) 19:9 Touch-Display, 128 GB interner Speicher, Android 8.1 Oreo / Oxygen OS 5.1), Silk White",
+      "scraped_at": "2026-04-14T04:50:00.720064+00:00",
+      "suggested_id": "oneplus-6-15-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "nubia ZTE Neo 3 GT 5G Gaming Smartphone mit IA, 12GB+256GB, Seitenauslöser, LED-Lichter, 6,8\" 120Hz OLED Display, 5000mAh Akku, Android 15, grau",
+      "scraped_at": "2026-04-14T04:50:09.953279+00:00",
+      "suggested_id": "nubia-zte-neo-3-gt-gaming-ia-256gb"
     }
   ]
 }
