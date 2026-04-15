@@ -59,6 +59,18 @@
       "raw_name": "nubia ZTE Neo 3 GT 5G Gaming Smartphone mit IA, 12GB+256GB, Seitenauslöser, LED-Lichter, 6,8\" 120Hz OLED Display, 5000mAh Akku, Android 15, grau",
       "scraped_at": "2026-04-14T04:50:09.953279+00:00",
       "suggested_id": "nubia-zte-neo-3-gt-gaming-ia-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Belkin ScreenForce InvisiGlassAM Displaysch.16/15/14 Pro OVA171hq",
+      "scraped_at": "2026-04-15T04:49:29.056590+00:00",
+      "suggested_id": "belkin-screenforce-invisiglassam-displaysch-16-15-14-pro-ova171hq"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Google Pixel Fold 5G 256GB + 12GB RAM Factory Unlocked - Dual SIM (Nano-SIM + eSIM) - Faltbares Display Android Smartphone (Porzellan) (Renewed)",
+      "scraped_at": "2026-04-15T04:49:47.388243+00:00",
+      "suggested_id": "google-pixel-fold-factory-256gb"
     }
   ]
 }
