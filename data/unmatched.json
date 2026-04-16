@@ -71,6 +71,12 @@
       "raw_name": "Google Pixel Fold 5G 256GB + 12GB RAM Factory Unlocked - Dual SIM (Nano-SIM + eSIM) - Faltbares Display Android Smartphone (Porzellan) (Renewed)",
       "scraped_at": "2026-04-15T04:49:47.388243+00:00",
       "suggested_id": "google-pixel-fold-factory-256gb"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "Xiaomi Redmi 15C 5G 128GB",
+      "scraped_at": "2026-04-16T04:55:14.260125+00:00",
+      "suggested_id": "xiaomi-redmi-15c-128gb"
     }
   ]
 }
