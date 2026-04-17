@@ -77,6 +77,24 @@
       "raw_name": "Xiaomi Redmi 15C 5G 128GB",
       "scraped_at": "2026-04-16T04:55:14.260125+00:00",
       "suggested_id": "xiaomi-redmi-15c-128gb"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "Xiaomi 17 512GB",
+      "scraped_at": "2026-04-17T04:52:57.991486+00:00",
+      "suggested_id": "xiaomi-17-512gb"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "Leica Leitzphone powered by Xiaomi",
+      "scraped_at": "2026-04-17T04:52:58.016756+00:00",
+      "suggested_id": "xiaomi-leitzphone-powered-by"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Smartphone VIVO Y76 5G 6,58\" Schwarz 256 GB",
+      "scraped_at": "2026-04-17T04:53:48.323280+00:00",
+      "suggested_id": "vivo-y76-6-256gb"
     }
   ]
 }
