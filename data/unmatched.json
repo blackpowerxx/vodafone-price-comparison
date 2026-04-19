@@ -95,6 +95,12 @@
       "raw_name": "Smartphone VIVO Y76 5G 6,58\" Schwarz 256 GB",
       "scraped_at": "2026-04-17T04:53:48.323280+00:00",
       "suggested_id": "vivo-y76-6-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Hammer Ranger 4G 8+8GB/256GB Outdoor Handy, Baustellenhandy und Rugged Smartphone, 6\" Display, IP69 wasserdicht, 5000mAh Akku, Dual SIM, eSIM, NFC – Schwarz",
+      "scraped_at": "2026-04-19T04:55:49.585538+00:00",
+      "suggested_id": "hammer-ranger-8-outdoor-256gb"
     }
   ]
 }
