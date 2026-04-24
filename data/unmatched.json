@@ -107,6 +107,24 @@
       "raw_name": "Mobile Phone Replacement Accessories for Nothing Phone 3A Pro A059P LCD Screen with Digitizer Full Assembly (Black) Repair Part",
       "scraped_at": "2026-04-21T04:52:28.743349+00:00",
       "suggested_id": "nothing-mobile-phone-replacement-accessories-for-phone-3a-pro-a059p-screen-digitizer-full-assembly-repair-part"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S24 FE Enterprise Edition, AI Business Smartphone ohne Vertrag mit Android, 8 GB RAM, 128 GB Speicher, 50-MP-Kamera, Sicherheit durch Knox Suite, Graphite",
+      "scraped_at": "2026-04-24T04:59:06.402957+00:00",
+      "suggested_id": "samsung-galaxy-s24-fe-enterprise-edition-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 12R 256GB Grey 6,8\" 5G EU (16GB) Android",
+      "scraped_at": "2026-04-24T04:59:19.110549+00:00",
+      "suggested_id": "oneplus-12r-grey-6-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo V70 FE Smartphone, gestochen scharfe OIS-Hauptkamera mit 200 MP, 256 GB, 8 GB RAM, 5.250-mAh-BlueVolt-Akku, 90-W-Schnellladefunktion, gestochen scharfes AMOLED-Display in 1.5K",
+      "scraped_at": "2026-04-24T04:59:41.502911+00:00",
+      "suggested_id": "vivo-v70-fe-256gb"
     }
   ]
 }
