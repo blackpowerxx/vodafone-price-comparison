@@ -125,6 +125,12 @@
       "raw_name": "vivo V70 FE Smartphone, gestochen scharfe OIS-Hauptkamera mit 200 MP, 256 GB, 8 GB RAM, 5.250-mAh-BlueVolt-Akku, 90-W-Schnellladefunktion, gestochen scharfes AMOLED-Display in 1.5K",
       "scraped_at": "2026-04-24T04:59:41.502911+00:00",
       "suggested_id": "vivo-v70-fe-256gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "OPPO Reno13 5G Dimensity 8350 12GB RAM 256GB ROM 6.59\" AMOLED Smartphone - White",
+      "scraped_at": "2026-04-26T05:16:23.175019+00:00",
+      "suggested_id": "oppo-reno13-8350-rom-6-59-256gb"
     }
   ]
 }
