@@ -131,6 +131,12 @@
       "raw_name": "OPPO Reno13 5G Dimensity 8350 12GB RAM 256GB ROM 6.59\" AMOLED Smartphone - White",
       "scraped_at": "2026-04-26T05:16:23.175019+00:00",
       "suggested_id": "oppo-reno13-8350-rom-6-59-256gb"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "motorola razr fold FIFA Edition",
+      "scraped_at": "2026-04-29T05:31:14.027223+00:00",
+      "suggested_id": "motorola-razr-fold-fifa-edition"
     }
   ]
 }
