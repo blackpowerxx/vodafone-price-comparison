@@ -137,6 +137,12 @@
       "raw_name": "motorola razr fold FIFA Edition",
       "scraped_at": "2026-04-29T05:31:14.027223+00:00",
       "suggested_id": "motorola-razr-fold-fifa-edition"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI Redmi Note 14 128 GB Midnight Black Dual SIM",
+      "scraped_at": "2026-05-09T05:26:36.380855+00:00",
+      "suggested_id": "xiaomi-redmi-note-14-128gb"
     }
   ]
 }
