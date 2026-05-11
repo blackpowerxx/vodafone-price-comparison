@@ -155,6 +155,18 @@
       "raw_name": "Samsung GALAXY S24 FE SM-S721BZKDEUB",
       "scraped_at": "2026-05-10T05:41:54.944055+00:00",
       "suggested_id": "samsung-s24-fe"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple iPhone 15 Pro Max 1TB Titan Natur (Generalüberholt)",
+      "scraped_at": "2026-05-11T06:03:36.370639+00:00",
+      "suggested_id": "apple-iphone-15-pro-max-1tb-titan-natur"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy A33 5G SM-A336B 16.3 cm (6.4) Hybrid Dual SIM Android 12 USB Type-C 6 GB 128 GB 5000 mAh Black (Generalüberholt)",
+      "scraped_at": "2026-05-11T06:04:27.531555+00:00",
+      "suggested_id": "samsung-galaxy-a33-16-3-cm-hybrid-12-usb-type-c-128gb"
     }
   ]
 }
