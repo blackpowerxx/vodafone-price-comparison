@@ -167,6 +167,12 @@
       "raw_name": "Samsung Galaxy A33 5G SM-A336B 16.3 cm (6.4) Hybrid Dual SIM Android 12 USB Type-C 6 GB 128 GB 5000 mAh Black (Generalüberholt)",
       "scraped_at": "2026-05-11T06:04:27.531555+00:00",
       "suggested_id": "samsung-galaxy-a33-16-3-cm-hybrid-12-usb-type-c-128gb"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "motorola edge 70 fusion FIFA Edition 256GB",
+      "scraped_at": "2026-05-12T05:42:43.686875+00:00",
+      "suggested_id": "motorola-edge-70-fusion-fifa-edition-256gb"
     }
   ]
 }
