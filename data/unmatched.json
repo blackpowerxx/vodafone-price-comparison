@@ -179,6 +179,12 @@
       "raw_name": "HONOR 600 Pro Smartphone 512 GB Black Dual SIM",
       "scraped_at": "2026-05-13T05:53:37.990190+00:00",
       "suggested_id": "honor-600-pro-512gb"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "motorola edge 70 fusion FIFA Edition",
+      "scraped_at": "2026-05-14T05:52:42.293338+00:00",
+      "suggested_id": "motorola-edge-70-fusion-fifa-edition"
     }
   ]
 }
