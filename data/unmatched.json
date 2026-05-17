@@ -191,6 +191,18 @@
       "raw_name": "URBAN ARMOR GEAR",
       "scraped_at": "2026-05-15T05:58:47.764786+00:00",
       "suggested_id": "urban-armor-gear"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung S921B Galaxy S24 256GB/8GB RAM Dual-SIM Enterprise Edition onyx-black",
+      "scraped_at": "2026-05-17T05:53:24.311031+00:00",
+      "suggested_id": "samsung-s921b-galaxy-s24-enterprise-edition-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 13 Aramid Fiber Magnetische Schlinge",
+      "scraped_at": "2026-05-17T05:53:39.945993+00:00",
+      "suggested_id": "oneplus-13-aramid-fiber-magnetische-schlinge"
     }
   ]
 }
