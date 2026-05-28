@@ -203,6 +203,24 @@
       "raw_name": "OnePlus 13 Aramid Fiber Magnetische Schlinge",
       "scraped_at": "2026-05-17T05:53:39.945993+00:00",
       "suggested_id": "oneplus-13-aramid-fiber-magnetische-schlinge"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "The Complete iPhone 16 Guide For Seniors: An Easy, Step-by-Step Guide for Zero-Tech Beginners for Everyday Use (Full Color Edition) (The Tech-Savvy Guides for Seniors)",
+      "scraped_at": "2026-05-28T06:17:21.982559+00:00",
+      "suggested_id": "apple-complete-iphone-16-guide-for-seniors"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "IPHONE 16 PLUS USER GUIDE FOR BEGINNERS AND SENIORS: The Complete Step-by-Step Manual to Master Your iPhone 16 Plus with iOS 18–Learn Setup, Hidden ... More – Designed Especially for Older Adults)",
+      "scraped_at": "2026-05-28T06:17:22.116251+00:00",
+      "suggested_id": "apple-iphone-16-plus-user-guide-for-beginners-seniors"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "Xiaomi 17T Pro",
+      "scraped_at": "2026-05-28T06:17:24.446228+00:00",
+      "suggested_id": "xiaomi-17t-pro"
     }
   ]
 }
