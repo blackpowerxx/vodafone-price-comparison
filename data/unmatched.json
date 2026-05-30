@@ -221,6 +221,12 @@
       "raw_name": "Xiaomi 17T Pro",
       "scraped_at": "2026-05-28T06:17:24.446228+00:00",
       "suggested_id": "xiaomi-17t-pro"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "motorola edge 70 512GB",
+      "scraped_at": "2026-05-30T05:52:22.499039+00:00",
+      "suggested_id": "motorola-edge-70-512gb"
     }
   ]
 }
