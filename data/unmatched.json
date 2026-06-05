@@ -233,6 +233,12 @@
       "raw_name": "OPPO Reno10 5G, Dual, 256GB 8GB RAM, Ice Blue",
       "scraped_at": "2026-06-01T07:04:59.390306+00:00",
       "suggested_id": "oppo-reno10-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S25 Enterprise Edition, AI Smartphone, Android-Handy ohne Vertrag, 12 GB RAM, 256 GB Speicher, Lange Akkulaufzeit, Sicherheit durch Knox Suite, Silver Shadow",
+      "scraped_at": "2026-06-05T06:29:07.500536+00:00",
+      "suggested_id": "samsung-galaxy-s25-enterprise-edition-256gb"
     }
   ]
 }
