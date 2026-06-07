@@ -239,6 +239,12 @@
       "raw_name": "Samsung Galaxy S25 Enterprise Edition, AI Smartphone, Android-Handy ohne Vertrag, 12 GB RAM, 256 GB Speicher, Lange Akkulaufzeit, Sicherheit durch Knox Suite, Silver Shadow",
       "scraped_at": "2026-06-05T06:29:07.500536+00:00",
       "suggested_id": "samsung-galaxy-s25-enterprise-edition-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Zte Blade V50 Vita 4gb/256gb 6.6´´ One Size",
+      "scraped_at": "2026-06-07T06:35:12.651266+00:00",
+      "suggested_id": "zte-blade-v50-vita-256gb"
     }
   ]
 }
