@@ -257,6 +257,12 @@
       "raw_name": "Samsung Galaxy S25 512GB Blueblack",
       "scraped_at": "2026-06-10T06:28:56.539506+00:00",
       "suggested_id": "samsung-galaxy-s25-blueblack-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S25+ 512GB ICYBLUE",
+      "scraped_at": "2026-06-11T06:54:36.850814+00:00",
+      "suggested_id": "samsung-galaxy-s25-plus-icyblue-512gb"
     }
   ]
 }
