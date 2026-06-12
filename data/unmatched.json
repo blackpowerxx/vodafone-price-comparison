@@ -263,6 +263,12 @@
       "raw_name": "Samsung Galaxy S25+ 512GB ICYBLUE",
       "scraped_at": "2026-06-11T06:54:36.850814+00:00",
       "suggested_id": "samsung-galaxy-s25-plus-icyblue-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Wigento Kamera Schutzglas für Nothing Phone 4a, Linsenschutz, HD klar, kratzfest, blasenfreie Anbringung, passgenauer Kameraschutz (Transparent)",
+      "scraped_at": "2026-06-12T06:47:40.005820+00:00",
+      "suggested_id": "nothing-wigento-schutzglas-phone-4a"
     }
   ]
 }
