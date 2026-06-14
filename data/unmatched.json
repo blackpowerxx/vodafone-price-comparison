@@ -269,6 +269,18 @@
       "raw_name": "Wigento Kamera Schutzglas für Nothing Phone 4a, Linsenschutz, HD klar, kratzfest, blasenfreie Anbringung, passgenauer Kameraschutz (Transparent)",
       "scraped_at": "2026-06-12T06:47:40.005820+00:00",
       "suggested_id": "nothing-wigento-schutzglas-phone-4a"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple 20W USB‑C Power Adapter (2025)",
+      "scraped_at": "2026-06-14T06:46:13.885087+00:00",
+      "suggested_id": "apple-20w-usb-c-power-adapter-2025"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple Watch SE 3 GPS 40 mm Smartwatch mit Aluminiumgehäuse in Polarstern und Sportarmband in Polarstern (S/M). Fitness‑ und Schlaftracker, Herzfrequenzmesser, Always-On Display, Wasserschutz",
+      "scraped_at": "2026-06-14T06:46:17.035669+00:00",
+      "suggested_id": "apple-watch-se-3-gps-40-mm-smartwatch-aluminiumgehause-in-polarstern-sportarmband-in-polarstern-s-m-fitness-schlaftracker"
     }
   ]
 }
