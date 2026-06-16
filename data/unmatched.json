@@ -281,6 +281,12 @@
       "raw_name": "Apple Watch SE 3 GPS 40 mm Smartwatch mit Aluminiumgehäuse in Polarstern und Sportarmband in Polarstern (S/M). Fitness‑ und Schlaftracker, Herzfrequenzmesser, Always-On Display, Wasserschutz",
       "scraped_at": "2026-06-14T06:46:17.035669+00:00",
       "suggested_id": "apple-watch-se-3-gps-40-mm-smartwatch-aluminiumgehause-in-polarstern-sportarmband-in-polarstern-s-m-fitness-schlaftracker"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus N100 Midnight Frost | 6.52\" HD+ LCD Display | 4GB RAM + 64GB Speicher | Dreifach Kamera | 5000 mAh Batterie | Duale SIM| 4G | 2 Jahre Garantie",
+      "scraped_at": "2026-06-16T07:32:40.779394+00:00",
+      "suggested_id": "oneplus-n100-frost-6-52-hd-plus-batterie-duale-sim-2-garantie-64gb"
     }
   ]
 }
