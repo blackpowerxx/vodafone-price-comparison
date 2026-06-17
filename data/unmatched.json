@@ -287,6 +287,30 @@
       "raw_name": "OnePlus N100 Midnight Frost | 6.52\" HD+ LCD Display | 4GB RAM + 64GB Speicher | Dreifach Kamera | 5000 mAh Batterie | Duale SIM| 4G | 2 Jahre Garantie",
       "scraped_at": "2026-06-16T07:32:40.779394+00:00",
       "suggested_id": "oneplus-n100-frost-6-52-hd-plus-batterie-duale-sim-2-garantie-64gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple iPhone 14 Pro 256GB Deep Violett - (Generalüberholt)",
+      "scraped_at": "2026-06-17T07:16:37.919691+00:00",
+      "suggested_id": "apple-iphone-14-pro-deep-violett-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 15 5G 16 GB/512 GB Schwarz (Infinite Black) Dual-SIM",
+      "scraped_at": "2026-06-17T07:17:02.527549+00:00",
+      "suggested_id": "oneplus-15-infinite-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 13 16-512 GB Arctic Dawn EU",
+      "scraped_at": "2026-06-17T07:17:09.174910+00:00",
+      "suggested_id": "oneplus-13-16-arctic-dawn-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo Y31e 5G, Smartphone mit 6 GB RAM + 6 GB erweitert, 256 GB ROM, 5.200 mAh BlueVolt-Akku, IP68 und IP69, Dual-Stereo mit 400% Lautstärke, HD-Rückkamera mit 50 MP, 6,72\"-LCD-Display, NFC",
+      "scraped_at": "2026-06-17T07:17:29.968052+00:00",
+      "suggested_id": "vivo-y31e-erweitert-rom-bluevolt-ip68-ip69-dual-stereo-400-lautstarke-hd-ruckkamera-6-72-256gb"
     }
   ]
 }
