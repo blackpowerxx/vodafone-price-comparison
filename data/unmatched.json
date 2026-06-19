@@ -311,6 +311,24 @@
       "raw_name": "vivo Y31e 5G, Smartphone mit 6 GB RAM + 6 GB erweitert, 256 GB ROM, 5.200 mAh BlueVolt-Akku, IP68 und IP69, Dual-Stereo mit 400% Lautstärke, HD-Rückkamera mit 50 MP, 6,72\"-LCD-Display, NFC",
       "scraped_at": "2026-06-17T07:17:29.968052+00:00",
       "suggested_id": "vivo-y31e-erweitert-rom-bluevolt-ip68-ip69-dual-stereo-400-lautstarke-hd-ruckkamera-6-72-256gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Apple iPhone SE (3rd Gen), 64GB, Midnight (Renewed)",
+      "scraped_at": "2026-06-19T07:12:43.569207+00:00",
+      "suggested_id": "apple-iphone-se-3rd-gen-64gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Samsung Galaxy S25+ 5G 256GB Storage + 12GB RAM SM-S936B Qualcomm Snapdragon 8 Elite Factory Unlocked Android 15 Smartphone (Navy) (Renewed)",
+      "scraped_at": "2026-06-19T07:12:49.859609+00:00",
+      "suggested_id": "samsung-galaxy-s25-plus-8-elite-factory-15-navy-256gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Samsung Galaxy S21 Plus 5G Phantom Silver Smartphone SIM Free Android Mobile Phone Dual Sim (Single Sim+ e-Sim) (Renewed",
+      "scraped_at": "2026-06-19T07:12:49.986127+00:00",
+      "suggested_id": "samsung-galaxy-s21-plus-mobile-phone-plus"
     }
   ]
 }
