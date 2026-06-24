@@ -335,6 +335,12 @@
       "raw_name": "Late 2019 Apple MacBook Pro with 2.3GHz Intel Core i9 (16 inch, 16GB RAM, 1TB SSD) Space Gray (Renewed)",
       "scraped_at": "2026-06-23T06:11:50.533940+00:00",
       "suggested_id": "apple-late-2019-macbook-pro-2-3ghz-intel-core-i9-16-inch"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI REDMI Note 15 Pro 5G 256 GB Glacier Blue Dual SIM",
+      "scraped_at": "2026-06-24T06:11:37.729391+00:00",
+      "suggested_id": "xiaomi-redmi-note-15-pro-glacier-256gb"
     }
   ]
 }
