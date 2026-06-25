@@ -341,6 +341,18 @@
       "raw_name": "XIAOMI REDMI Note 15 Pro 5G 256 GB Glacier Blue Dual SIM",
       "scraped_at": "2026-06-24T06:11:37.729391+00:00",
       "suggested_id": "xiaomi-redmi-note-15-pro-glacier-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "ONEPLUS 10T , all carriers , 5G Smartphone mit 8GB RAM und 128GB Speicher, 150W SUPERVOOC Endurance Edition und 50MP Dreifach-Kamerasystem, Mondstein/Schwarz (Moonstone Black) (Generalüberholt)",
+      "scraped_at": "2026-06-25T06:12:58.411640+00:00",
+      "suggested_id": "oneplus-10t-all-carriers-150w-supervooc-endurance-edition-kamerasystem-mondstein-moonstone-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI Poco M8 5G Smartphone, 8 GB RAM + 256 GB Speicher, Handy mit Android, 6,77\" 120 Hz Flow AMOLED Display, 50 MP KI-Dual-Kamera, 7,35 mm schlankes 3D-Curved Design, Schwarz, 2 Jahre Garantie",
+      "scraped_at": "2026-06-25T06:13:24.185463+00:00",
+      "suggested_id": "xiaomi-poco-m8-256gb"
     }
   ]
 }
