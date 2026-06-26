@@ -353,6 +353,12 @@
       "raw_name": "XIAOMI Poco M8 5G Smartphone, 8 GB RAM + 256 GB Speicher, Handy mit Android, 6,77\" 120 Hz Flow AMOLED Display, 50 MP KI-Dual-Kamera, 7,35 mm schlankes 3D-Curved Design, Schwarz, 2 Jahre Garantie",
       "scraped_at": "2026-06-25T06:13:24.185463+00:00",
       "suggested_id": "xiaomi-poco-m8-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE iPhone 16 5G 128 GB Ultramarin Dual SIM",
+      "scraped_at": "2026-06-26T06:15:52.884385+00:00",
+      "suggested_id": "apple-iphone-16-ultramarin-128gb"
     }
   ]
 }
