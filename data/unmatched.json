@@ -389,6 +389,12 @@
       "raw_name": "Apple Watch Series 11 GPS 46 mm Smartwatch mit Aluminiumgehäuse in Space Grau und Sportarmband in Schwarz (M/L). Schlafindex, Fitnesstracker, Gesundheitstracking, Always-On Display, Wasserschutz",
       "scraped_at": "2026-06-30T06:17:19.430750+00:00",
       "suggested_id": "apple-watch-series-11-gps-46-mm-smartwatch-aluminiumgehause-in-space-grau-sportarmband-in-m-l-schlafindex"
+    },
+    {
+      "source": "telekom_de",
+      "raw_name": "motorola razr fold FIFA Edition 512GB",
+      "scraped_at": "2026-07-01T06:38:55.313681+00:00",
+      "suggested_id": "motorola-razr-fold-fifa-edition-512gb"
     }
   ]
 }
