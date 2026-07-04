@@ -395,6 +395,36 @@
       "raw_name": "motorola razr fold FIFA Edition 512GB",
       "scraped_at": "2026-07-01T06:38:55.313681+00:00",
       "suggested_id": "motorola-razr-fold-fifa-edition-512gb"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "Xiaomi Redmi Note 15 5G",
+      "scraped_at": "2026-07-04T05:50:33.962916+00:00",
+      "suggested_id": "xiaomi-redmi-note-15"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "Xiaomi Redmi 15C 5G",
+      "scraped_at": "2026-07-04T05:50:33.962923+00:00",
+      "suggested_id": "xiaomi-redmi-15c"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "Fairphone 6",
+      "scraped_at": "2026-07-04T05:50:33.962942+00:00",
+      "suggested_id": "fairphone-6"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "HMD Fusion X1",
+      "scraped_at": "2026-07-04T05:50:33.962949+00:00",
+      "suggested_id": "hmd-fusion-x1"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Blackview Wave 10 Smartphone Ohne Vertrag, Android 16 Handy,6,88\" 120Hz, 32GB+128GB/2TB,32MP 13MP/5000mAh,4G Dual SIM Smartphones Günstig Neu,WiFi 5G/GPS/3,5mm/FM/3 Jahre Garantie | 32 MP",
+      "scraped_at": "2026-07-04T05:51:37.232806+00:00",
+      "suggested_id": "blackview-wave-10-128gb"
     }
   ]
 }
