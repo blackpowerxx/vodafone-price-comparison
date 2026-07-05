@@ -425,6 +425,12 @@
       "raw_name": "Blackview Wave 10 Smartphone Ohne Vertrag, Android 16 Handy,6,88\" 120Hz, 32GB+128GB/2TB,32MP 13MP/5000mAh,4G Dual SIM Smartphones Günstig Neu,WiFi 5G/GPS/3,5mm/FM/3 Jahre Garantie | 32 MP",
       "scraped_at": "2026-07-04T05:51:37.232806+00:00",
       "suggested_id": "blackview-wave-10-128gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Samsung Galaxy S24 256GB Marble Grey Unlocked (Renewed)",
+      "scraped_at": "2026-07-05T06:10:00.127398+00:00",
+      "suggested_id": "samsung-galaxy-s24-marble-grey-256gb"
     }
   ]
 }
