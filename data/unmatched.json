@@ -431,6 +431,18 @@
       "raw_name": "Samsung Galaxy S24 256GB Marble Grey Unlocked (Renewed)",
       "scraped_at": "2026-07-05T06:10:00.127398+00:00",
       "suggested_id": "samsung-galaxy-s24-marble-grey-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI Poco F8 Ultra, Smartphone 16+512 GB, Handy mit Android, 6.9\" 120Hz AMOLED Display, 50MP Light Fusion 950 mit OIS, Sound by Bose, 6500mAh, Schwarz, 2 Jahre Garantie",
+      "scraped_at": "2026-07-07T06:14:05.237687+00:00",
+      "suggested_id": "xiaomi-poco-f8-ultra-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI 17 Ultra Smartphone 16+512 GB, HyperAI Handy mit Android, Leica 200 MP Teleobjektiv (75–100 mm), Leica APO Optik, LOFIC HDR Technologie, Schwarz, 3 Jahre Garantie",
+      "scraped_at": "2026-07-07T06:14:05.278735+00:00",
+      "suggested_id": "xiaomi-17-ultra-16-512gb"
     }
   ]
 }
