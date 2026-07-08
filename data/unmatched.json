@@ -443,6 +443,24 @@
       "raw_name": "XIAOMI 17 Ultra Smartphone 16+512 GB, HyperAI Handy mit Android, Leica 200 MP Teleobjektiv (75–100 mm), Leica APO Optik, LOFIC HDR Technologie, Schwarz, 3 Jahre Garantie",
       "scraped_at": "2026-07-07T06:14:05.278735+00:00",
       "suggested_id": "xiaomi-17-ultra-16-512gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Samsung Galaxy S24 128GB Marble Grey Unlocked (Renewed)",
+      "scraped_at": "2026-07-08T05:26:28.021710+00:00",
+      "suggested_id": "samsung-galaxy-s24-marble-grey-128gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Google Pixel 9 Pro 5G AI Mobile Phone SIM Free 16GB RAM 6.3\" 128GB Obsidian Dual Sim (Single Sim+ e-Sim) (Renewed)",
+      "scraped_at": "2026-07-08T05:26:31.178790+00:00",
+      "suggested_id": "google-pixel-9-pro-mobile-phone-plus-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple iPhone 13 Mini, 512GB, Blau - (Generalüberholt)",
+      "scraped_at": "2026-07-08T05:26:36.286374+00:00",
+      "suggested_id": "apple-iphone-13-mini-blau-512gb"
     }
   ]
 }
