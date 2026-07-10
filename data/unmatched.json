@@ -461,6 +461,18 @@
       "raw_name": "Apple iPhone 13 Mini, 512GB, Blau - (Generalüberholt)",
       "scraped_at": "2026-07-08T05:26:36.286374+00:00",
       "suggested_id": "apple-iphone-13-mini-blau-512gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Samsung Galaxy S25 5G Smartphone Android AI Mobile Phone SIM Free 256GB Navy",
+      "scraped_at": "2026-07-10T06:09:15.964581+00:00",
+      "suggested_id": "samsung-galaxy-s25-mobile-phone-navy-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple Watch Series 11 GPS 42 mm Smartwatch mit Aluminiumgehäuse in Diamantschwarz und Sportarmband in Schwarz (S/M). Schlafindex, Fitnesstracker, Gesundheitstracking, Always-On Display, Wasserschutz",
+      "scraped_at": "2026-07-10T06:09:48.258748+00:00",
+      "suggested_id": "apple-watch-series-11-gps-42-mm-smartwatch-aluminiumgehause-in-diamantschwarz-sportarmband-in-s-m-schlafindex"
     }
   ]
 }
