@@ -473,6 +473,12 @@
       "raw_name": "Apple Watch Series 11 GPS 42 mm Smartwatch mit Aluminiumgehäuse in Diamantschwarz und Sportarmband in Schwarz (S/M). Schlafindex, Fitnesstracker, Gesundheitstracking, Always-On Display, Wasserschutz",
       "scraped_at": "2026-07-10T06:09:48.258748+00:00",
       "suggested_id": "apple-watch-series-11-gps-42-mm-smartwatch-aluminiumgehause-in-diamantschwarz-sportarmband-in-s-m-schlafindex"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S24 FE 128GB Graphit (Generalüberholt)",
+      "scraped_at": "2026-07-12T05:33:23.343266+00:00",
+      "suggested_id": "samsung-galaxy-s24-fe-graphit-128gb"
     }
   ]
 }
