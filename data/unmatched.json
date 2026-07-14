@@ -479,6 +479,12 @@
       "raw_name": "Samsung Galaxy S24 FE 128GB Graphit (Generalüberholt)",
       "scraped_at": "2026-07-12T05:33:23.343266+00:00",
       "suggested_id": "samsung-galaxy-s24-fe-graphit-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple 70W USBâ€‘C Power Adapter, MacBook Air",
+      "scraped_at": "2026-07-14T04:55:50.636820+00:00",
+      "suggested_id": "apple-70w-usba-c-power-adapter"
     }
   ]
 }
