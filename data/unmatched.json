@@ -485,6 +485,48 @@
       "raw_name": "Apple 70W USBâ€‘C Power Adapter, MacBook Air",
       "scraped_at": "2026-07-14T04:55:50.636820+00:00",
       "suggested_id": "apple-70w-usba-c-power-adapter"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple iPhone 14 Pro Max 17 cm (6.7) Dual SIM iOS 16 5G 128 GB Silver",
+      "scraped_at": "2026-07-17T05:18:16.173396+00:00",
+      "suggested_id": "apple-iphone-14-pro-max-17-cm-ios-16-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple iPhone 14 Pro Max, 128GB, Silber - (Generalüberholt)",
+      "scraped_at": "2026-07-17T05:18:16.271931+00:00",
+      "suggested_id": "apple-iphone-14-pro-max-silber-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S26+ Plus 5G 256GB 12GB RAM 4.900mAh Akku AI Handy Android 16 Smartphone Violett ohne Simlock ohne Branding",
+      "scraped_at": "2026-07-17T05:18:36.179375+00:00",
+      "suggested_id": "samsung-galaxy-s26-plus-plus-16-violett-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI REDMI Note 15 Pro 5G Smartphone 12+512GB, 6580mAh, 200MP, Schwarz | Handy mit Android, IP66/IP68 Staub- und Wasserschutz, Neue 200-MP-Kamera, 6.77\" AMOLED-Display, 2 Jahre Garantie",
+      "scraped_at": "2026-07-17T05:18:52.351379+00:00",
+      "suggested_id": "xiaomi-redmi-note-15-pro-12-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Motorola Edge 70 Smartphone 50MP Kamera 12-512 Speicher Gagdet Grey",
+      "scraped_at": "2026-07-17T05:19:02.123831+00:00",
+      "suggested_id": "motorola-edge-70-12-512-gagdet-grey"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI REDMI Note 15 Smartphone 8+256GB, 6000mAh, 108MP Kamera, Schwarz | Handy mit Android, wassergeschützt, 6.77\" FHD+Display, 2 Jahre Garantie",
+      "scraped_at": "2026-07-17T05:19:05.443815+00:00",
+      "suggested_id": "xiaomi-redmi-note-15-8-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI REDMI Note 15 Pro Smartphone 12+512GB, 6500mAh, 200MP Kamera Schwarz | Handy mit Android, IP65-Wasserschutz, 6.77\" FHD+ AMOLED-Display, 2 Jahre Garantie",
+      "scraped_at": "2026-07-17T05:19:18.765857+00:00",
+      "suggested_id": "xiaomi-redmi-note-15-pro-12-512gb"
     }
   ]
 }
