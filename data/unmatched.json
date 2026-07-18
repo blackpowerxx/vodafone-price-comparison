@@ -527,6 +527,18 @@
       "raw_name": "XIAOMI REDMI Note 15 Pro Smartphone 12+512GB, 6500mAh, 200MP Kamera Schwarz | Handy mit Android, IP65-Wasserschutz, 6.77\" FHD+ AMOLED-Display, 2 Jahre Garantie",
       "scraped_at": "2026-07-17T05:19:18.765857+00:00",
       "suggested_id": "xiaomi-redmi-note-15-pro-12-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 9 Pro 5G 12GB RAM 256GB SIM-freies Smartphone mit Hasselblad-Kamera für Smartphones - 2 Jahre Garantie - Stellar Schwarz",
+      "scraped_at": "2026-07-18T04:53:14.459696+00:00",
+      "suggested_id": "oneplus-9-pro-smartphones-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI REDMI Note 15 Pro 5G Smartphone 12+512GB 6580mAh 200MP Gletscherblau | Handy mit Android, IP66/IP68 Staub- und Wasserschutz, Neue 200-MP-Kamera, 6.77\" AMOLED-Display, 2 Jahre Garantie",
+      "scraped_at": "2026-07-18T04:53:35.454156+00:00",
+      "suggested_id": "xiaomi-redmi-note-15-pro-12-gletscherblau-512gb"
     }
   ]
 }
