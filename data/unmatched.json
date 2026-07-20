@@ -539,6 +539,12 @@
       "raw_name": "XIAOMI REDMI Note 15 Pro 5G Smartphone 12+512GB 6580mAh 200MP Gletscherblau | Handy mit Android, IP66/IP68 Staub- und Wasserschutz, Neue 200-MP-Kamera, 6.77\" AMOLED-Display, 2 Jahre Garantie",
       "scraped_at": "2026-07-18T04:53:35.454156+00:00",
       "suggested_id": "xiaomi-redmi-note-15-pro-12-gletscherblau-512gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "New AMOLED LCD Display for OnePlus 13 1+13 CPH2655, CPH2653 6.82'' with Upgraded Repair Tools Kit-with Fingerprint Function",
+      "scraped_at": "2026-07-20T05:44:12.315615+00:00",
+      "suggested_id": "oneplus-for-13-1-13-cph2655"
     }
   ]
 }
