@@ -545,6 +545,24 @@
       "raw_name": "New AMOLED LCD Display for OnePlus 13 1+13 CPH2655, CPH2653 6.82'' with Upgraded Repair Tools Kit-with Fingerprint Function",
       "scraped_at": "2026-07-20T05:44:12.315615+00:00",
       "suggested_id": "oneplus-for-13-1-13-cph2655"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI 17T 12+512G Schwarz Bundle Redmi Pad 2 9.7 4+64GB Gray",
+      "scraped_at": "2026-07-22T05:24:09.697112+00:00",
+      "suggested_id": "xiaomi-17t-12-512g-bundle-redmi-pad-2-9-7-4-gray-64gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI 17T 12+256G Schwarz Bundle Redmi Pad 2 9.7 4+64GB Gray",
+      "scraped_at": "2026-07-22T05:24:09.715906+00:00",
+      "suggested_id": "xiaomi-17t-12-256g-bundle-redmi-pad-2-9-7-4-gray-64gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI REDMI 15 5G Smartphone, 8+256GB, 50MP Kamera, 7000mAh Akku, Schwarz | Handy mit Android, 6,9'' FHD+ DotDisplay 144Hz, Snapdragon® 6s Gen 3, 6nm-Prozess, Octa-Core-CPU,50MP Hauptkamera,",
+      "scraped_at": "2026-07-22T05:24:12.789179+00:00",
+      "suggested_id": "xiaomi-redmi-15-256gb"
     }
   ]
 }
