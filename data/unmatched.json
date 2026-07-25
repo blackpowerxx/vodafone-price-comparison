@@ -563,6 +563,12 @@
       "raw_name": "XIAOMI REDMI 15 5G Smartphone, 8+256GB, 50MP Kamera, 7000mAh Akku, Schwarz | Handy mit Android, 6,9'' FHD+ DotDisplay 144Hz, Snapdragon® 6s Gen 3, 6nm-Prozess, Octa-Core-CPU,50MP Hauptkamera,",
       "scraped_at": "2026-07-22T05:24:12.789179+00:00",
       "suggested_id": "xiaomi-redmi-15-256gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Samsung Galaxy S25 5G Handset 128GB 12GB RAM 6.2 Inch Navy (Renewed)",
+      "scraped_at": "2026-07-25T05:18:36.186940+00:00",
+      "suggested_id": "samsung-galaxy-s25-handset-inch-navy-128gb"
     }
   ]
 }
