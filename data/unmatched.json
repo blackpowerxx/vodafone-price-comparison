@@ -569,6 +569,18 @@
       "raw_name": "Samsung Galaxy S25 5G Handset 128GB 12GB RAM 6.2 Inch Navy (Renewed)",
       "scraped_at": "2026-07-25T05:18:36.186940+00:00",
       "suggested_id": "samsung-galaxy-s25-handset-inch-navy-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OPPO Reno16 5G 256GB 8GB RAM Twilight Violet",
+      "scraped_at": "2026-07-27T05:55:39.631153+00:00",
+      "suggested_id": "oppo-reno16-twilight-violet-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OPPO Reno16 5G 256GB 8GB RAM Pop White",
+      "scraped_at": "2026-07-27T05:55:39.642154+00:00",
+      "suggested_id": "oppo-reno16-pop-256gb"
     }
   ]
 }
