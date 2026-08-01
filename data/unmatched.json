@@ -587,6 +587,18 @@
       "raw_name": "OnePlus 10T 5G 12GB RAM und 256GB Speicher 50MP Dreifach-Kamerasystem",
       "scraped_at": "2026-07-28T05:19:37.732307+00:00",
       "suggested_id": "oneplus-10t-kamerasystem-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple Watch Series 11 GPS 46 mm Smartwatch mit Aluminiumgehäuse in Diamantschwarz und Sportarmband in Schwarz (S/M). Schlafindex, Fitnesstracker, Gesundheitstracking, Always-On Display, Wasserschutz",
+      "scraped_at": "2026-08-01T05:33:23.266184+00:00",
+      "suggested_id": "apple-watch-series-11-gps-46-mm-smartwatch-aluminiumgehause-in-diamantschwarz-sportarmband-in-s-m-schlafindex"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "HOTWAV Note 13 Max 256 GB Schwarz, Android Smartphone, Smartphone ohne Vertrag, Günstige handy, Mobiltelefon, 24 Monate Garantie. Dual SIM",
+      "scraped_at": "2026-08-01T05:33:27.567877+00:00",
+      "suggested_id": "hotwav-note-13-max-256gb"
     }
   ]
 }
