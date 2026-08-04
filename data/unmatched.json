@@ -599,6 +599,18 @@
       "raw_name": "HOTWAV Note 13 Max 256 GB Schwarz, Android Smartphone, Smartphone ohne Vertrag, Günstige handy, Mobiltelefon, 24 Monate Garantie. Dual SIM",
       "scraped_at": "2026-08-01T05:33:27.567877+00:00",
       "suggested_id": "hotwav-note-13-max-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S26 5G 12 GB/256 GB Himmelblau (Sky Blue) Dual-SIM",
+      "scraped_at": "2026-08-04T05:19:16.834006+00:00",
+      "suggested_id": "samsung-galaxy-s26-himmelblau-sky-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo Y21e 4G Smartphone, 4 GB RAM + 128 GB ROM, 50-MP-Hauptkamera, 6,68\" HD+ 90 Hz, 5.200-mAh-Akku, 44-W-FlashCharge, IP68 und IP69, Dual-Lautsprecher, Dual-SIM, Android Mobile",
+      "scraped_at": "2026-08-04T05:19:51.852977+00:00",
+      "suggested_id": "vivo-y21e-128gb"
     }
   ]
 }
