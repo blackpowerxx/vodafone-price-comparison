@@ -611,6 +611,18 @@
       "raw_name": "vivo Y21e 4G Smartphone, 4 GB RAM + 128 GB ROM, 50-MP-Hauptkamera, 6,68\" HD+ 90 Hz, 5.200-mAh-Akku, 44-W-FlashCharge, IP68 und IP69, Dual-Lautsprecher, Dual-SIM, Android Mobile",
       "scraped_at": "2026-08-04T05:19:51.852977+00:00",
       "suggested_id": "vivo-y21e-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OPPO Reno16F 5G Smartphone, 8 GB RAM + 256 GB, 6,57 Zoll AMOLED-Display, 120 Hz HDR10+, 50 MP Kamera mit Teleobjektiv, 50 MP Selfie, 6500 mAh Akku, 45 W Ladung, IP69K, NFC, Dual SIM",
+      "scraped_at": "2026-08-05T05:19:11.491181+00:00",
+      "suggested_id": "oppo-reno16f-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OPPO Reno16 5G Handy 8+256GB 6000mAh 120Hz 50MP, Pop White | 50 MP Ultraweitwinkel-Selfie Kamera, 4K video, Snapdragon 7 Gen 4, 6,32\" AMOLED, 80W SUPERVOOC, OIS",
+      "scraped_at": "2026-08-05T05:19:11.536525+00:00",
+      "suggested_id": "oppo-reno16-8-120hz-256gb"
     }
   ]
 }
