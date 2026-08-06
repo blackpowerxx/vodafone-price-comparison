@@ -623,6 +623,18 @@
       "raw_name": "OPPO Reno16 5G Handy 8+256GB 6000mAh 120Hz 50MP, Pop White | 50 MP Ultraweitwinkel-Selfie Kamera, 4K video, Snapdragon 7 Gen 4, 6,32\" AMOLED, 80W SUPERVOOC, OIS",
       "scraped_at": "2026-08-05T05:19:11.536525+00:00",
       "suggested_id": "oppo-reno16-8-120hz-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple Watch Series 11 GPS 46 mm Smartwatch mit Aluminiumgehäuse in Diamantschwarz und Sportarmband in Schwarz (M/L). Schlafindex, Fitnesstracker, Gesundheitstracking, Always-On Display, Wasserschutz",
+      "scraped_at": "2026-08-06T05:21:37.955998+00:00",
+      "suggested_id": "apple-watch-series-11-gps-46-mm-smartwatch-aluminiumgehause-in-diamantschwarz-sportarmband-in-m-l-schlafindex"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI REDMI Note 15 128 GB Black Dual SIM",
+      "scraped_at": "2026-08-06T05:21:39.086904+00:00",
+      "suggested_id": "xiaomi-redmi-note-15-128gb"
     }
   ]
 }
