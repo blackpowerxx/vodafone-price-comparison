@@ -635,6 +635,12 @@
       "raw_name": "XIAOMI REDMI Note 15 128 GB Black Dual SIM",
       "scraped_at": "2026-08-06T05:21:39.086904+00:00",
       "suggested_id": "xiaomi-redmi-note-15-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Sony Xperia 5 Bundle, 6.1” FHD+ HDR OLED 21:9 Display, 6GB RAM, 128GB Speicher, Schwarz + WF-1000XM3 True Wireless Noise Cancelling Kopfhörer, Schwarz",
+      "scraped_at": "2026-08-10T04:01:35.074879+00:00",
+      "suggested_id": "sony-xperia-5-bundle-128gb"
     }
   ]
 }
