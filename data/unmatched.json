@@ -653,6 +653,18 @@
       "raw_name": "vivo X300 FE 5G Smartphone, 12+256 GB, ZEISS Super-Telekamera | Kompaktes 6,31\" Flaggschiff-Design | Snapdragon 8 Gen 5 | 5,380 mAh Akku | 120 Hz AMOLED Display | IP68 & IP69 | Android 16",
       "scraped_at": "2026-08-11T03:49:52.659297+00:00",
       "suggested_id": "vivo-x300-fe-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple 20W USB‑C Power Adapter",
+      "scraped_at": "2026-08-13T04:15:59.773289+00:00",
+      "suggested_id": "apple-20w-usb-c-power-adapter"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Nothing Phone (4b) Android-16-Smartphone ohne SIM-Lock 50-MP-Kamera mit OIS | 6,77-Zoll-AMOLED-Display mit 120 Hz, 5.200-mAh-Akku, 33-W-Schnellladen 8 GB RAM + 128 GB Speicher Dual-SIM, Glyph Bar Schwarz",
+      "scraped_at": "2026-08-13T04:16:35.397428+00:00",
+      "suggested_id": "nothing-phone-4b-16-sim-lock-50-mp-6-128gb"
     }
   ]
 }
