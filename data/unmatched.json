@@ -665,6 +665,12 @@
       "raw_name": "Nothing Phone (4b) Android-16-Smartphone ohne SIM-Lock 50-MP-Kamera mit OIS | 6,77-Zoll-AMOLED-Display mit 120 Hz, 5.200-mAh-Akku, 33-W-Schnellladen 8 GB RAM + 128 GB Speicher Dual-SIM, Glyph Bar Schwarz",
       "scraped_at": "2026-08-13T04:16:35.397428+00:00",
       "suggested_id": "nothing-phone-4b-16-sim-lock-50-mp-6-128gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Apple iPhone SE 3rd Gen, 128GB, Midnight (Renewed)",
+      "scraped_at": "2026-08-15T02:55:14.231766+00:00",
+      "suggested_id": "apple-iphone-se-3rd-gen-128gb"
     }
   ]
 }
