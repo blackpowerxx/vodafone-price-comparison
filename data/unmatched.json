@@ -671,6 +671,18 @@
       "raw_name": "Apple iPhone SE 3rd Gen, 128GB, Midnight (Renewed)",
       "scraped_at": "2026-08-15T02:55:14.231766+00:00",
       "suggested_id": "apple-iphone-se-3rd-gen-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OPPO Reno16 F 5G Smartphone 8+256GB 6500mAh 120Hz 50MP, Purple Black | 50MP Front und Rückkamera, 6500mAh, 45W SUPERVOOC, 6.57\" AMOLED, OIS, IP68",
+      "scraped_at": "2026-08-17T03:04:06.845294+00:00",
+      "suggested_id": "oppo-reno16-f-8-120hz-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X300 FE 5G Smartphone | 12 GB + 256 GB | ZEISS Super-Telekamera | Kompaktes 6,31\" Flaggschiff-Design | Snapdragon 8 Gen 5 | 5,380 mAh Akku | 120 Hz AMOLED Display | IP68 & IP69 | Android 16",
+      "scraped_at": "2026-08-17T03:04:28.971796+00:00",
+      "suggested_id": "vivo-x300-fe-super-telekamera-kompaktes-6-256gb"
     }
   ]
 }
