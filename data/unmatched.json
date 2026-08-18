@@ -683,6 +683,12 @@
       "raw_name": "vivo X300 FE 5G Smartphone | 12 GB + 256 GB | ZEISS Super-Telekamera | Kompaktes 6,31\" Flaggschiff-Design | Snapdragon 8 Gen 5 | 5,380 mAh Akku | 120 Hz AMOLED Display | IP68 & IP69 | Android 16",
       "scraped_at": "2026-08-17T03:04:28.971796+00:00",
       "suggested_id": "vivo-x300-fe-super-telekamera-kompaktes-6-256gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "CMF Phone 1 8+128GB - Unlocked Smartphone with 50 MP Sony Rear Camera with Ultra XDR, 6.67\" Super AMOLED Display and Nothing OS 2.6 - Orange",
+      "scraped_at": "2026-08-18T02:59:13.776657+00:00",
+      "suggested_id": "nothing-cmf-phone-1-8-128gb"
     }
   ]
 }
