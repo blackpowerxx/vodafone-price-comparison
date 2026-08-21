@@ -689,6 +689,24 @@
       "raw_name": "CMF Phone 1 8+128GB - Unlocked Smartphone with 50 MP Sony Rear Camera with Ultra XDR, 6.67\" Super AMOLED Display and Nothing OS 2.6 - Orange",
       "scraped_at": "2026-08-18T02:59:13.776657+00:00",
       "suggested_id": "nothing-cmf-phone-1-8-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple iPhone 14 Pro 128GB Deep Violett - (Generalüberholt)",
+      "scraped_at": "2026-08-21T03:07:20.257984+00:00",
+      "suggested_id": "apple-iphone-14-pro-deep-violett-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI Poco X8 Pro Max Smartphone 12GB+256GB Handy mit Android Dimensity 9500s Prozessor 8500mAh Akku Ultrahelles AMOLEDDisplay 50MP Light Fusion 600 Hauptkamera mit OIS Weiß 3 Jahre Garantie | Ultra-helles AMOLED-Display, Android, Dimensity 9500s Prozessor, 50MP Light Fusion 600 Hauptkamera mit OIS, 3 Jahre Garantie",
+      "scraped_at": "2026-08-21T03:07:58.715888+00:00",
+      "suggested_id": "xiaomi-poco-x8-pro-max-9500s-prozessor-ultrahelles-amoleddisplay-light-fusion-600-hauptkamera-3-garantie-ultra-helles-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo V70 5G Smartphone | 8GB+256GB | 50MP ZEISS Super-Telekamera | IP69 | 6,59\" 1,5K AMOLED | 120 Hz | 5.400 mAh BlueVolt-Akku | 90W FlashCharge | 3D-Ultraschall-Fingerabdruck | OriginOS 6",
+      "scraped_at": "2026-08-21T03:08:17.695677+00:00",
+      "suggested_id": "vivo-v70-super-telekamera-ip69-6-256gb"
     }
   ]
 }
