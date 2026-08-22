@@ -707,6 +707,12 @@
       "raw_name": "vivo V70 5G Smartphone | 8GB+256GB | 50MP ZEISS Super-Telekamera | IP69 | 6,59\" 1,5K AMOLED | 120 Hz | 5.400 mAh BlueVolt-Akku | 90W FlashCharge | 3D-Ultraschall-Fingerabdruck | OriginOS 6",
       "scraped_at": "2026-08-21T03:08:17.695677+00:00",
       "suggested_id": "vivo-v70-super-telekamera-ip69-6-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "GOOGLE Pixel 11 256 GB Frost Dual SIM",
+      "scraped_at": "2026-08-22T02:58:25.634037+00:00",
+      "suggested_id": "google-pixel-11-frost-256gb"
     }
   ]
 }
