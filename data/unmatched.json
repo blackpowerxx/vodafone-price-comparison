@@ -713,6 +713,12 @@
       "raw_name": "GOOGLE Pixel 11 256 GB Frost Dual SIM",
       "scraped_at": "2026-08-22T02:58:25.634037+00:00",
       "suggested_id": "google-pixel-11-frost-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "GOOGLE Pixel 11 Pro XL 256 GB Canyon Dual SIM",
+      "scraped_at": "2026-08-24T03:07:23.075981+00:00",
+      "suggested_id": "google-pixel-11-pro-xl-canyon-256gb"
     }
   ]
 }
