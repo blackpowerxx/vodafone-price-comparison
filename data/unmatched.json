@@ -749,6 +749,24 @@
       "raw_name": "XIAOMI Poco X8 Pro Smartphone 8GB+256GB Unlocked Handy mit Android Dimensity 8500-Ultra Prozessor 6500mAh Akku Ultra-helles AMOLED Display 50MP Sony IMX882 Hauptkamera mit OIS Grün 3 Jahre Garantie",
       "scraped_at": "2026-08-27T12:38:21.934254+00:00",
       "suggested_id": "xiaomi-poco-x8-pro-8500-ultra-prozessor-ultra-helles-sony-imx882-hauptkamera-grun-3-garantie-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Galaxy S24 + 12/256 Violet",
+      "scraped_at": "2026-08-28T14:09:42.886138+00:00",
+      "suggested_id": "samsung-galaxy-s24-12-256-violet"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI Poco X8 Pro Max Smartphone 12GB+256GB Handy mit Android Dimensity 9500s Prozessor 8500mAh Akku Ultrahelles AMOLEDDisplay 50MP Light Fusion 600 Hauptkamera mit OIS Weiß 3 Jahre Garantie",
+      "scraped_at": "2026-08-28T14:09:59.147439+00:00",
+      "suggested_id": "xiaomi-poco-x8-pro-max-9500s-prozessor-ultrahelles-amoleddisplay-light-fusion-600-hauptkamera-3-garantie-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI Redmi 17 128 GB Black Dual SIM",
+      "scraped_at": "2026-08-28T14:09:37.328241+00:00",
+      "suggested_id": "xiaomi-redmi-17-128gb"
     }
   ]
 }
