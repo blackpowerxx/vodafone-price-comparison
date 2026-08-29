@@ -767,6 +767,12 @@
       "raw_name": "XIAOMI Redmi 17 128 GB Black Dual SIM",
       "scraped_at": "2026-08-28T14:09:37.328241+00:00",
       "suggested_id": "xiaomi-redmi-17-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI 17 Ultra Smartphone 16+512 GB Leica 200 MP Teleobjektiv Starlit Grün | HyperAI Handy mit Android, Leica 200 MP Teleobjektiv (75–100 mm), Leica APO Optik, LOFIC HDR Technologie, 3 Jahre Garantie",
+      "scraped_at": "2026-08-29T08:47:54.328588+00:00",
+      "suggested_id": "xiaomi-17-ultra-16-teleobjektiv-starlit-grun-hyperai-512gb"
     }
   ]
 }
