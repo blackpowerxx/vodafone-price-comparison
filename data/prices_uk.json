@@ -1,38 +1,6 @@
 {
-  "scraped_at": "2026-09-02T06:56:50.469321+00:00",
+  "scraped_at": "2026-09-03T07:00:21.401132+00:00",
   "prices": {
-    "google-pixel-10-pro-xl": {
-      "vodafone_uk": {
-        "upfront_price": 50.0,
-        "monthly_price": 54.0,
-        "contract_months": 24,
-        "total_cost": 1346.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/google/pixel-10-pro-xl",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739114+00:00"
-      },
-      "ee": {
-        "upfront_price": 30.0,
-        "monthly_price": 52.260000000000005,
-        "contract_months": 24,
-        "total_cost": 1284.24,
-        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096847+00:00"
-      },
-      "three_uk": {
-        "upfront_price": 50.0,
-        "monthly_price": 41.5,
-        "contract_months": 36,
-        "total_cost": 1544.0,
-        "url": "https://www.three.co.uk/shop/phones/google-pixel-11-pro",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:05.591418+00:00"
-      }
-    },
     "apple-iphone-17-pro-max-256gb": {
       "vodafone_uk": {
         "upfront_price": 50.0,
@@ -42,7 +10,7 @@
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-17-pro-max",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738792+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541318+00:00"
       },
       "ee": {
         "upfront_price": 30.0,
@@ -52,7 +20,7 @@
         "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096796+00:00"
+        "scraped_at": "2026-09-03T07:00:27.400146+00:00"
       },
       "three_uk": {
         "upfront_price": 50.0,
@@ -62,71 +30,7 @@
         "url": "https://www.three.co.uk/shop/phones/apple-iphone-17-pro-max",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:06.070117+00:00"
-      }
-    },
-    "samsung-galaxy-s25-ultra-256gb": {
-      "vodafone_uk": {
-        "upfront_price": 50.0,
-        "monthly_price": 50.0,
-        "contract_months": 24,
-        "total_cost": 1250.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-s25-ultra",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738851+00:00"
-      },
-      "ee": {
-        "upfront_price": 30.0,
-        "monthly_price": 42.95,
-        "contract_months": 24,
-        "total_cost": 1060.8,
-        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096876+00:00"
-      },
-      "three_uk": {
-        "upfront_price": 50.0,
-        "monthly_price": 49.0,
-        "contract_months": 36,
-        "total_cost": 1814.0,
-        "url": "https://www.three.co.uk/shop/phones/samsung-galaxy-s26-ultra",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:05.837498+00:00"
-      }
-    },
-    "google-pixel-10a": {
-      "vodafone_uk": {
-        "upfront_price": 30.0,
-        "monthly_price": 42.5,
-        "contract_months": 24,
-        "total_cost": 1050.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/google/pixel-10",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739093+00:00"
-      },
-      "ee": {
-        "upfront_price": 30.0,
-        "monthly_price": 19.25,
-        "contract_months": 24,
-        "total_cost": 492.0,
-        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096917+00:00"
-      },
-      "three_uk": {
-        "upfront_price": 40.0,
-        "monthly_price": 38.5,
-        "contract_months": 36,
-        "total_cost": 1426.0,
-        "url": "https://www.three.co.uk/shop/phones/google-pixel-11",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:05.903968+00:00"
+        "scraped_at": "2026-09-03T07:00:35.803608+00:00"
       }
     },
     "apple-iphone-17-pro-256gb": {
@@ -138,7 +42,7 @@
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-17-pro",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738818+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541349+00:00"
       },
       "ee": {
         "upfront_price": 30.0,
@@ -148,7 +52,7 @@
         "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096861+00:00"
+        "scraped_at": "2026-09-03T07:00:27.400223+00:00"
       },
       "three_uk": {
         "upfront_price": 40.0,
@@ -158,51 +62,83 @@
         "url": "https://www.three.co.uk/shop/phones/apple-iphone-17-pro",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:06.407315+00:00"
+        "scraped_at": "2026-09-03T07:00:37.188324+00:00"
       }
     },
-    "samsung-galaxy-z-fold7": {
+    "google-pixel-10-pro-xl": {
       "vodafone_uk": {
-        "upfront_price": 30.0,
-        "monthly_price": 43.0,
+        "upfront_price": 50.0,
+        "monthly_price": 60.0,
         "contract_months": 24,
-        "total_cost": 1062.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-z-flip7-fe",
+        "total_cost": 1490.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/google/pixel-10-pro-xl",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739031+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541800+00:00"
       },
       "ee": {
         "upfront_price": 30.0,
-        "monthly_price": 58.66,
+        "monthly_price": 52.260000000000005,
         "contract_months": 24,
-        "total_cost": 1437.84,
+        "total_cost": 1284.24,
         "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096869+00:00"
+        "scraped_at": "2026-09-03T07:00:27.400205+00:00"
       },
       "three_uk": {
-        "upfront_price": 40.0,
-        "monthly_price": 51.5,
+        "upfront_price": 50.0,
+        "monthly_price": 41.5,
         "contract_months": 36,
-        "total_cost": 1894.0,
-        "url": "https://www.three.co.uk/shop/phones/samsung-galaxy-z-flip-8",
+        "total_cost": 1544.0,
+        "url": "https://www.three.co.uk/shop/phones/google-pixel-11-pro",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:06.344058+00:00"
+        "scraped_at": "2026-09-03T07:00:35.288109+00:00"
+      }
+    },
+    "samsung-galaxy-s25-ultra-256gb": {
+      "vodafone_uk": {
+        "upfront_price": 50.0,
+        "monthly_price": 60.5,
+        "contract_months": 24,
+        "total_cost": 1502.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-s25-ultra",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541497+00:00"
+      },
+      "ee": {
+        "upfront_price": 30.0,
+        "monthly_price": 42.95,
+        "contract_months": 24,
+        "total_cost": 1060.8,
+        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:27.400241+00:00"
+      },
+      "three_uk": {
+        "upfront_price": 50.0,
+        "monthly_price": 49.0,
+        "contract_months": 36,
+        "total_cost": 1814.0,
+        "url": "https://www.three.co.uk/shop/phones/samsung-galaxy-s26-ultra",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:35.738815+00:00"
       }
     },
     "samsung-galaxy-s25-256gb": {
       "vodafone_uk": {
         "upfront_price": 30.0,
-        "monthly_price": 42.0,
+        "monthly_price": 48.0,
         "contract_months": 24,
-        "total_cost": 1038.0,
+        "total_cost": 1182.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-s25",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739043+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541730+00:00"
       },
       "ee": {
         "upfront_price": 30.0,
@@ -212,7 +148,7 @@
         "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096854+00:00"
+        "scraped_at": "2026-09-03T07:00:27.400215+00:00"
       },
       "three_uk": {
         "upfront_price": 30.0,
@@ -222,153 +158,39 @@
         "url": "https://www.three.co.uk/shop/phones/samsung-galaxy-s26-fe",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:06.126553+00:00"
+        "scraped_at": "2026-09-03T07:00:35.868550+00:00"
       }
     },
-    "apple-iphone-air": {
+    "samsung-galaxy-z-fold7": {
       "vodafone_uk": {
         "upfront_price": 30.0,
-        "monthly_price": 47.0,
+        "monthly_price": 49.0,
         "contract_months": 24,
-        "total_cost": 1158.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-air",
+        "total_cost": 1206.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-z-flip7-fe",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738841+00:00"
-      }
-    },
-    "apple-iphone-16-256gb": {
-      "vodafone_uk": {
-        "upfront_price": 20.0,
-        "monthly_price": 34.0,
-        "contract_months": 24,
-        "total_cost": 836.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-16e",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739135+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541714+00:00"
       },
       "ee": {
         "upfront_price": 30.0,
-        "monthly_price": 38.19,
+        "monthly_price": 58.66,
         "contract_months": 24,
-        "total_cost": 946.56,
+        "total_cost": 1437.84,
         "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096892+00:00"
-      }
-    },
-    "apple-iphone-17-256gb": {
-      "vodafone_uk": {
-        "upfront_price": 30.0,
-        "monthly_price": 41.36,
-        "contract_months": 24,
-        "total_cost": 1022.64,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-17",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738858+00:00"
-      },
-      "ee": {
-        "upfront_price": 30.0,
-        "monthly_price": 42.43,
-        "contract_months": 24,
-        "total_cost": 1048.32,
-        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096899+00:00"
+        "scraped_at": "2026-09-03T07:00:27.400232+00:00"
       },
       "three_uk": {
-        "upfront_price": 30.0,
-        "monthly_price": 39.36,
+        "upfront_price": 40.0,
+        "monthly_price": 51.5,
         "contract_months": 36,
-        "total_cost": 1446.96,
-        "url": "https://www.three.co.uk/shop/phones/apple-iphone-17",
+        "total_cost": 1894.0,
+        "url": "https://www.three.co.uk/shop/phones/samsung-galaxy-z-flip-8",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:06.287508+00:00"
-      }
-    },
-    "samsung-galaxy-a57": {
-      "vodafone_uk": {
-        "upfront_price": 20.0,
-        "monthly_price": 25.0,
-        "contract_months": 24,
-        "total_cost": 620.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-a16-5g",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739176+00:00"
-      },
-      "ee": {
-        "upfront_price": 30.0,
-        "monthly_price": 28.22,
-        "contract_months": 24,
-        "total_cost": 707.28,
-        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:57.096924+00:00"
-      }
-    },
-    "honor-400": {
-      "vodafone_uk": {
-        "upfront_price": 20.0,
-        "monthly_price": 46.5,
-        "contract_months": 24,
-        "total_cost": 1136.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/600",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738925+00:00"
-      }
-    },
-    "google-pixel-9-pro-fold": {
-      "vodafone_uk": {
-        "upfront_price": 70.0,
-        "monthly_price": 69.5,
-        "contract_months": 24,
-        "total_cost": 1738.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/google/pixel-10-pro-fold",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739070+00:00"
-      },
-      "three_uk": {
-        "upfront_price": 70.0,
-        "monthly_price": 69.0,
-        "contract_months": 36,
-        "total_cost": 2554.0,
-        "url": "https://www.three.co.uk/shop/phones/google-pixel-11-pro-fold",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:06.376298+00:00"
-      }
-    },
-    "honor-magic7-lite": {
-      "vodafone_uk": {
-        "upfront_price": 20.0,
-        "monthly_price": 26.0,
-        "contract_months": 24,
-        "total_cost": 644.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/magic7-lite",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739006+00:00"
-      }
-    },
-    "motorola-edge-70": {
-      "vodafone_uk": {
-        "upfront_price": 30.0,
-        "monthly_price": 40.5,
-        "contract_months": 24,
-        "total_cost": 1002.0,
-        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/motorola/edge-70",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739081+00:00"
+        "scraped_at": "2026-09-03T07:00:37.058205+00:00"
       }
     },
     "apple-iphone-17e": {
@@ -380,7 +202,7 @@
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-17e",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738961+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541424+00:00"
       },
       "three_uk": {
         "upfront_price": 30.0,
@@ -390,91 +212,269 @@
         "url": "https://www.three.co.uk/shop/phones/apple-iphone-17e",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:06.436705+00:00"
+        "scraped_at": "2026-09-03T07:00:37.235019+00:00"
+      }
+    },
+    "google-pixel-10a": {
+      "vodafone_uk": {
+        "upfront_price": 30.0,
+        "monthly_price": 48.5,
+        "contract_months": 24,
+        "total_cost": 1194.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/google/pixel-10",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541777+00:00"
+      },
+      "ee": {
+        "upfront_price": 30.0,
+        "monthly_price": 19.25,
+        "contract_months": 24,
+        "total_cost": 492.0,
+        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:27.400278+00:00"
+      }
+    },
+    "apple-iphone-17-256gb": {
+      "vodafone_uk": {
+        "upfront_price": 30.0,
+        "monthly_price": 47.36,
+        "contract_months": 24,
+        "total_cost": 1166.64,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-17",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541458+00:00"
+      },
+      "ee": {
+        "upfront_price": 30.0,
+        "monthly_price": 42.43,
+        "contract_months": 24,
+        "total_cost": 1048.32,
+        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:27.400270+00:00"
+      },
+      "three_uk": {
+        "upfront_price": 30.0,
+        "monthly_price": 39.36,
+        "contract_months": 36,
+        "total_cost": 1446.96,
+        "url": "https://www.three.co.uk/shop/phones/apple-iphone-17",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:36.992354+00:00"
+      }
+    },
+    "apple-iphone-16-256gb": {
+      "vodafone_uk": {
+        "upfront_price": 20.0,
+        "monthly_price": 40.0,
+        "contract_months": 24,
+        "total_cost": 980.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-16e",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541826+00:00"
+      },
+      "ee": {
+        "upfront_price": 30.0,
+        "monthly_price": 38.19,
+        "contract_months": 24,
+        "total_cost": 946.56,
+        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:27.400260+00:00"
+      }
+    },
+    "samsung-galaxy-a57": {
+      "vodafone_uk": {
+        "upfront_price": 20.0,
+        "monthly_price": 31.0,
+        "contract_months": 24,
+        "total_cost": 764.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-a16-5g",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541867+00:00"
+      },
+      "ee": {
+        "upfront_price": 30.0,
+        "monthly_price": 28.22,
+        "contract_months": 24,
+        "total_cost": 707.28,
+        "url": "https://www.ee.co.uk/mobile/pay-monthly-phones-gallery",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:27.400285+00:00"
+      }
+    },
+    "honor-magic7-lite": {
+      "vodafone_uk": {
+        "upfront_price": 20.0,
+        "monthly_price": 43.0,
+        "contract_months": 24,
+        "total_cost": 1052.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/magic7-lite",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541664+00:00"
+      }
+    },
+    "honor-400": {
+      "vodafone_uk": {
+        "upfront_price": 20.0,
+        "monthly_price": 44.5,
+        "contract_months": 24,
+        "total_cost": 1088.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/600",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541531+00:00"
+      }
+    },
+    "motorola-edge-70": {
+      "vodafone_uk": {
+        "upfront_price": 30.0,
+        "monthly_price": 46.5,
+        "contract_months": 24,
+        "total_cost": 1146.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/motorola/edge-70",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541766+00:00"
+      }
+    },
+    "apple-iphone-air": {
+      "vodafone_uk": {
+        "upfront_price": 30.0,
+        "monthly_price": 45.0,
+        "contract_months": 24,
+        "total_cost": 1110.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-air",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541573+00:00"
+      }
+    },
+    "google-pixel-9-pro-fold": {
+      "vodafone_uk": {
+        "upfront_price": 70.0,
+        "monthly_price": 75.5,
+        "contract_months": 24,
+        "total_cost": 1882.0,
+        "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/google/pixel-10-pro-fold",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:29.541754+00:00"
+      },
+      "three_uk": {
+        "upfront_price": 70.0,
+        "monthly_price": 69.0,
+        "contract_months": 36,
+        "total_cost": 2554.0,
+        "url": "https://www.three.co.uk/shop/phones/google-pixel-11-pro-fold",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:37.113211+00:00"
       }
     },
     "motorola-razr-60": {
       "vodafone_uk": {
         "upfront_price": 50.0,
-        "monthly_price": 53.5,
+        "monthly_price": 59.5,
         "contract_months": 24,
-        "total_cost": 1334.0,
+        "total_cost": 1478.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/motorola/razr-70-ultra",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739099+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541783+00:00"
       }
     },
     "samsung-galaxy-s25-edge": {
       "vodafone_uk": {
         "upfront_price": 50.0,
-        "monthly_price": 54.5,
+        "monthly_price": 60.5,
         "contract_months": 24,
-        "total_cost": 1358.0,
+        "total_cost": 1502.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-s25-edge",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.738979+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541612+00:00"
+      },
+      "three_uk": {
+        "upfront_price": 50.0,
+        "monthly_price": 52.5,
+        "contract_months": 36,
+        "total_cost": 1940.0,
+        "url": "https://www.three.co.uk/shop/phones/14719492_14719292",
+        "in_stock": true,
+        "currency": "GBP",
+        "scraped_at": "2026-09-03T07:00:37.299664+00:00"
       }
     },
     "honor-400-pro": {
       "vodafone_uk": {
         "upfront_price": 40.0,
-        "monthly_price": 44.5,
+        "monthly_price": 50.5,
         "contract_months": 24,
-        "total_cost": 1108.0,
+        "total_cost": 1252.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/600-pro",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739065+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541748+00:00"
       }
     },
     "samsung-galaxy-s25-plus-256gb": {
       "vodafone_uk": {
         "upfront_price": 40.0,
-        "monthly_price": 52.0,
+        "monthly_price": 58.0,
         "contract_months": 24,
-        "total_cost": 1288.0,
+        "total_cost": 1432.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-s26-plus",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739038+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541722+00:00"
       }
     },
     "honor-magic8-pro": {
       "vodafone_uk": {
         "upfront_price": 50.0,
-        "monthly_price": 51.5,
+        "monthly_price": 57.5,
         "contract_months": 24,
-        "total_cost": 1286.0,
+        "total_cost": 1430.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/magic8-pro",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739060+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541742+00:00"
       }
     },
     "doro-aurora-a30": {
       "vodafone_uk": {
         "upfront_price": 10.0,
-        "monthly_price": 36.0,
+        "monthly_price": 34.0,
         "contract_months": 24,
-        "total_cost": 874.0,
+        "total_cost": 826.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/doro/aurora-a30",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739026+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541704+00:00"
       }
     },
     "motorola-moto-g35": {
       "vodafone_uk": {
         "upfront_price": 10.0,
-        "monthly_price": 24.0,
+        "monthly_price": 30.0,
         "contract_months": 24,
-        "total_cost": 586.0,
+        "total_cost": 730.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/motorola/moto-g35",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739146+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541838+00:00"
       }
     },
     "honor-400-smart": {
@@ -486,257 +486,67 @@
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/400-smart",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739154+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541844+00:00"
       }
     },
     "honor-magic-v5": {
       "vodafone_uk": {
         "upfront_price": 70.0,
-        "monthly_price": 69.0,
+        "monthly_price": 75.0,
         "contract_months": 24,
-        "total_cost": 1726.0,
+        "total_cost": 1870.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/honor/magic-v5",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739125+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541812+00:00"
       }
     },
     "apple-iphone-16-pro-256gb": {
       "vodafone_uk": {
         "upfront_price": 30.0,
-        "monthly_price": 43.0,
+        "monthly_price": 49.0,
         "contract_months": 24,
-        "total_cost": 1062.0,
+        "total_cost": 1206.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-16-plus",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739120+00:00"
-      },
-      "amazon_uk": {
-        "upfront_price": 599.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 599.0,
-        "url": "https://www.amazon.co.uk/dp/B0DHYFTSL2",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:09.438482+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541806+00:00"
       }
     },
     "samsung-galaxy-xcover7": {
       "vodafone_uk": {
         "upfront_price": 30.0,
-        "monthly_price": 29.0,
+        "monthly_price": 35.0,
         "contract_months": 24,
-        "total_cost": 726.0,
+        "total_cost": 870.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/samsung/galaxy-xcover7",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739130+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541818+00:00"
       }
     },
     "apple-iphone-15-256gb": {
       "vodafone_uk": {
         "upfront_price": 20.0,
-        "monthly_price": 37.0,
+        "monthly_price": 43.0,
         "contract_months": 24,
-        "total_cost": 908.0,
+        "total_cost": 1052.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/apple/iphone-15",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739160+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541850+00:00"
       }
     },
     "doro-8100": {
       "vodafone_uk": {
         "upfront_price": 10.0,
-        "monthly_price": 42.5,
+        "monthly_price": 41.5,
         "contract_months": 24,
-        "total_cost": 1030.0,
+        "total_cost": 1006.0,
         "url": "https://www.vodafone.co.uk/mobile/phones/pay-monthly/doro/8100",
         "in_stock": true,
         "currency": "GBP",
-        "scraped_at": "2026-09-02T06:56:58.739165+00:00"
-      }
-    },
-    "apple-iphone-15-pro-max-256gb": {
-      "amazon_uk": {
-        "upfront_price": 539.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 539.0,
-        "url": "https://www.amazon.co.uk/dp/B0CVJZZQL5",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:02.520448+00:00"
-      }
-    },
-    "apple-iphone-15-pro-128gb": {
-      "amazon_uk": {
-        "upfront_price": 452.89,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 452.89,
-        "url": "https://www.amazon.co.uk/dp/B0CVJ5WF3K",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:02.555967+00:00"
-      }
-    },
-    "apple-iphone-16-pro-128gb": {
-      "amazon_uk": {
-        "upfront_price": 550.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 550.0,
-        "url": "https://www.amazon.co.uk/dp/B0DHYG1D3V",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:09.421901+00:00"
-      }
-    },
-    "apple-iphone-16-128gb": {
-      "amazon_uk": {
-        "upfront_price": 508.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 508.0,
-        "url": "https://www.amazon.co.uk/dp/B0DHYDGHF5",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:09.349249+00:00"
-      }
-    },
-    "apple-iphone-15-pro-256gb": {
-      "amazon_uk": {
-        "upfront_price": 417.85,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 417.85,
-        "url": "https://www.amazon.co.uk/dp/B0CVJSHFZ8",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:15.679551+00:00"
-      }
-    },
-    "apple-iphone-13-128gb": {
-      "amazon_uk": {
-        "upfront_price": 215.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 215.0,
-        "url": "https://www.amazon.co.uk/dp/B09MGDRQSS",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:15.746506+00:00"
-      }
-    },
-    "samsung-galaxy-s24-plus-256gb": {
-      "amazon_uk": {
-        "upfront_price": 339.85,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 339.85,
-        "url": "https://www.amazon.co.uk/dp/B0DNKH4H55",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:22.153737+00:00"
-      }
-    },
-    "samsung-galaxy-s24-128gb": {
-      "amazon_uk": {
-        "upfront_price": 279.89,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 279.89,
-        "url": "https://www.amazon.co.uk/dp/B0D6C3JVZY",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:28.294439+00:00"
-      }
-    },
-    "samsung-galaxy-s24-256gb": {
-      "amazon_uk": {
-        "upfront_price": 415.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 415.0,
-        "url": "https://www.amazon.co.uk/dp/B0FDR6Z246",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:28.326232+00:00"
-      }
-    },
-    "google-pixel-9-pro-128gb": {
-      "amazon_uk": {
-        "upfront_price": 450.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 450.0,
-        "url": "https://www.amazon.co.uk/dp/B0DS67BB9P",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:31.474493+00:00"
-      }
-    },
-    "nothing-phone-4a-256gb": {
-      "amazon_uk": {
-        "upfront_price": 299.17,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 299.17,
-        "url": "https://www.amazon.co.uk/dp/B0GHNNT88Q",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:41.111619+00:00"
-      }
-    },
-    "nothing-phone-3a-128gb": {
-      "amazon_uk": {
-        "upfront_price": 240.24,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 240.24,
-        "url": "https://www.amazon.co.uk/dp/B0CQ7P5X9N",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:41.177102+00:00"
-      }
-    },
-    "nothing-phone-3a-pro-256gb": {
-      "amazon_uk": {
-        "upfront_price": 390.83,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 390.83,
-        "url": "https://www.amazon.co.uk/dp/B0GFWQ77ZM",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:41.142538+00:00"
-      }
-    },
-    "nothing-phone-3-256gb": {
-      "amazon_uk": {
-        "upfront_price": 457.5,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 457.5,
-        "url": "https://www.amazon.co.uk/dp/B0F6Y8F3QD",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:41.158784+00:00"
-      }
-    },
-    "nothing-phone-3a-256gb": {
-      "amazon_uk": {
-        "upfront_price": 272.67,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 272.67,
-        "url": "https://www.amazon.co.uk/dp/B0CQ8CN28H",
-        "in_stock": true,
-        "currency": "GBP",
-        "scraped_at": "2026-09-02T06:57:41.192917+00:00"
+        "scraped_at": "2026-09-03T07:00:29.541856+00:00"
       }
     }
   }
