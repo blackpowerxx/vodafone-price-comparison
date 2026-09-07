@@ -797,6 +797,48 @@
       "raw_name": "OPPO Reno15 F 5G Android-Smartphone, 8+256GB, 6,57\" 120Hz Display, 50MP Ultra-Weitwinkel-Selfiekamera FOV 100°, AI Portrait Glow, 6500mAh Akku, IP69, 80W-SUPERVOOC-Flashladung, Twilight Blue",
       "scraped_at": "2026-09-04T07:05:56.806881+00:00",
       "suggested_id": "oppo-reno15-f-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Poco F9 Ultra, Smartphone 12+256 GB, Dark Cherry, 8050mAh Akku, 100W Laden | Snapdragon® 8 Elite Gen 5, VisionBoost D8, Immersives 6,59\"-AMOLED-Display, 200MP Kamera, Durable Corning® Gorilla® Glass 7i",
+      "scraped_at": "2026-09-07T07:10:08.899893+00:00",
+      "suggested_id": "xiaomi-poco-f9-ultra-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI Redmi 17C 5G 128 GB Black Dual SIM",
+      "scraped_at": "2026-09-07T07:09:48.735854+00:00",
+      "suggested_id": "xiaomi-redmi-17c-128gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI Redmi 17 128 GB Deep Blue Dual SIM",
+      "scraped_at": "2026-09-07T07:09:48.792815+00:00",
+      "suggested_id": "xiaomi-redmi-17-deep-128gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI Redmi 17 128 GB Oak Green Dual SIM",
+      "scraped_at": "2026-09-07T07:09:50.997366+00:00",
+      "suggested_id": "xiaomi-redmi-17-oak-128gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "XIAOMI Redmi 17C 5G 128 GB Purple Dual SIM",
+      "scraped_at": "2026-09-07T07:09:51.330909+00:00",
+      "suggested_id": "xiaomi-redmi-17c-128gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "HONOR 600 Smartphone 256 GB Black Dual SIM",
+      "scraped_at": "2026-09-07T07:09:51.365165+00:00",
+      "suggested_id": "honor-600-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "NOTHING Phone 4a Pro 128 GB Metallic Silber Dual SIM",
+      "scraped_at": "2026-09-07T07:09:51.423640+00:00",
+      "suggested_id": "nothing-phone-4a-pro-metallic-silber-128gb"
     }
   ]
 }
