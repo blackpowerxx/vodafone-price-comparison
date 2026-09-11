@@ -857,6 +857,30 @@
       "raw_name": "TCL P80 Pro 5G Smartphone 50MP OIS Kamera NXTPAPER Display 512GB Blau 50MP Kamera mit großem Sensor, 1.5K AMOLED- & NXTPAPER-Display, 512GB ROM, 24GB RAM, 5800mAh Akku (typ.), 45W Laden, Google Gemini",
       "scraped_at": "2026-09-10T07:10:16.079537+00:00",
       "suggested_id": "google-tcl-p80-pro-nxtpaper-blau-grossem-sensor-512gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Samsung Galaxy S25 FE 5G SM-S731B Exynos 2400 8GB RAM SIM-Free Unlocked Android 16 Smartphone (Jetblack, 128, GB) (Renewed)",
+      "scraped_at": "2026-09-11T07:08:38.054838+00:00",
+      "suggested_id": "samsung-galaxy-s25-fe-2400-16-jetblack"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Nothing Ear (3a) Noise Cancelling Earbuds, 45dB Hybrid ANC, 12mm Driver with Hi-Res Audio and Bigger Bass, 6 Mics for Clear Calls & Recording, Dual Connect Bluetooth Earphones for Sport, Travel, Work",
+      "scraped_at": "2026-09-11T07:08:55.095556+00:00",
+      "suggested_id": "nothing-ear-3a-noise-cancelling-earbuds"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Poco F9 Pro, Smartphone 12+512 GB, Black, 6330mAh Akku, 100W Laden | Snapdragon® 8 Elite Gen 5, V-Serie (SM8850-1-AB), VisionBoost D8, Immersives 6,59\"-AMOLED-Display, 200-MP-OIS-KI-Kamera",
+      "scraped_at": "2026-09-11T07:09:15.216965+00:00",
+      "suggested_id": "xiaomi-poco-f9-pro-12-100w-laden-8-elite-gen-5-v-serie-sm8850-1-ab-visionboost-d8-immersives-6-59-200-mp-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Sony Xperia 10 VIII | Leichtes Handy mit Langer Akkulaufzeit – Frost-grau + WHCH530",
+      "scraped_at": "2026-09-11T07:09:38.166809+00:00",
+      "suggested_id": "sony-xperia-10-viii-leichtes-langer-akkulaufzeit"
     }
   ]
 }
