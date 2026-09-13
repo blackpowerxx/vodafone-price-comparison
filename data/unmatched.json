@@ -881,6 +881,36 @@
       "raw_name": "Sony Xperia 10 VIII | Leichtes Handy mit Langer Akkulaufzeit – Frost-grau + WHCH530",
       "scraped_at": "2026-09-11T07:09:38.166809+00:00",
       "suggested_id": "sony-xperia-10-viii-leichtes-langer-akkulaufzeit"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple Watch Series 11 GPS 46 mm Smartwatch mit Aluminiumgehäuse in Silber und Sportarmband in Nebelviolett (M/L). Schlafindex, Fitnesstracker, Gesundheitstracking, Always-On Display, Wasserschutz",
+      "scraped_at": "2026-09-13T07:19:50.023687+00:00",
+      "suggested_id": "apple-watch-series-11-gps-46-mm-smartwatch-aluminiumgehause-in-silber-sportarmband-in-nebelviolett-m-l-schlafindex"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI 17 Smartphone 12+512GB, Unlocked, Leica Summilux, Light Fusion 950, 6330mAh, HyperAI, Schwarz, 3J Garantie",
+      "scraped_at": "2026-09-13T07:20:11.906670+00:00",
+      "suggested_id": "xiaomi-17-12-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Poco F9 Pro, Smartphone 12+512 GB, Black, 6330mAh Akku, 100W Laden",
+      "scraped_at": "2026-09-13T07:20:11.947466+00:00",
+      "suggested_id": "xiaomi-poco-f9-pro-12-100w-laden-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Nothing Phone (4b) Android-16-Smartphone ohne SIM-Lock 50-MP-Kamera mit OIS",
+      "scraped_at": "2026-09-13T07:20:24.815638+00:00",
+      "suggested_id": "nothing-phone-4b-16-sim-lock-50-mp"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo V70 5G Smartphone | 8GB+256GB | 50MP ZEISS Super-Telekamera | IP69",
+      "scraped_at": "2026-09-13T07:20:37.538047+00:00",
+      "suggested_id": "vivo-v70-super-telekamera-ip69-256gb"
     }
   ]
 }
