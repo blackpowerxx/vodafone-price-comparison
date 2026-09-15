@@ -911,6 +911,12 @@
       "raw_name": "vivo V70 5G Smartphone | 8GB+256GB | 50MP ZEISS Super-Telekamera | IP69",
       "scraped_at": "2026-09-13T07:20:37.538047+00:00",
       "suggested_id": "vivo-v70-super-telekamera-ip69-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Poco F9 Ultra, Smartphone 16+512 GB, Dark Cherry, 8050mAh Akku, 100W Laden",
+      "scraped_at": "2026-09-15T07:27:58.123963+00:00",
+      "suggested_id": "xiaomi-poco-f9-ultra-512gb"
     }
   ]
 }
