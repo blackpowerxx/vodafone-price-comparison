@@ -935,6 +935,24 @@
       "raw_name": "OnePlus 12 512GB/16GB RAM Dual-SIM flowy-emerald",
       "scraped_at": "2026-09-17T07:23:53.672244+00:00",
       "suggested_id": "oneplus-12-flowy-emerald-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung GALAXY S26 Ultra SM-S948BZKGEUB",
+      "scraped_at": "2026-09-18T07:13:56.479063+00:00",
+      "suggested_id": "samsung-s26-ultra"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI 17 Ultra Smartphone 16+512 GB Leica 200 MP Teleobjektiv Starlit Grün",
+      "scraped_at": "2026-09-18T07:14:35.253280+00:00",
+      "suggested_id": "xiaomi-17-ultra-16-teleobjektiv-starlit-grun-512gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE iPhone Air 5G 256 GB Space Schwarz",
+      "scraped_at": "2026-09-18T07:13:56.948467+00:00",
+      "suggested_id": "apple-iphone-air-space-256gb"
     }
   ]
 }
