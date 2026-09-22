@@ -965,6 +965,12 @@
       "raw_name": "APPLE IPHONE 16E 128GB BLACK 128 GB Black Dual SIM",
       "scraped_at": "2026-09-21T07:47:42.859537+00:00",
       "suggested_id": "apple-iphone-16e-128gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 14 128GB MIDNIGHT 128 GB Mitternacht Dual SIM",
+      "scraped_at": "2026-09-22T07:30:42.630854+00:00",
+      "suggested_id": "apple-iphone-14-mitternacht-128gb"
     }
   ]
 }
