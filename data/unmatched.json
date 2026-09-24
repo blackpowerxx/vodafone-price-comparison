@@ -971,6 +971,42 @@
       "raw_name": "APPLE IPHONE 14 128GB MIDNIGHT 128 GB Mitternacht Dual SIM",
       "scraped_at": "2026-09-22T07:30:42.630854+00:00",
       "suggested_id": "apple-iphone-14-mitternacht-128gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Amazon Renewed",
+      "scraped_at": "2026-09-24T07:26:19.755670+00:00",
+      "suggested_id": ""
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Amazon Renewed",
+      "scraped_at": "2026-09-24T07:26:19.797367+00:00",
+      "suggested_id": ""
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Amazon Renewed",
+      "scraped_at": "2026-09-24T07:26:22.926881+00:00",
+      "suggested_id": ""
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Amazon Renewed",
+      "scraped_at": "2026-09-24T07:26:22.990407+00:00",
+      "suggested_id": ""
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Amazon Renewed",
+      "scraped_at": "2026-09-24T07:26:26.109698+00:00",
+      "suggested_id": ""
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 16 PRO 128GB BLACK TITANIUM 128 GB Titan Schwarz Dual SIM",
+      "scraped_at": "2026-09-24T07:26:39.397902+00:00",
+      "suggested_id": "apple-iphone-16-pro-titan-128gb"
     }
   ]
 }
