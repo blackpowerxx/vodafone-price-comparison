@@ -1007,6 +1007,42 @@
       "raw_name": "APPLE IPHONE 16 PRO 128GB BLACK TITANIUM 128 GB Titan Schwarz Dual SIM",
       "scraped_at": "2026-09-24T07:26:39.397902+00:00",
       "suggested_id": "apple-iphone-16-pro-titan-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S26 Ultra 256GB Cobalt Violet",
+      "scraped_at": "2026-09-25T07:22:31.614366+00:00",
+      "suggested_id": "samsung-galaxy-s26-ultra-cobalt-violet-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Samsung Galaxy S26 256GB Cobalt Violet",
+      "scraped_at": "2026-09-25T07:22:40.975754+00:00",
+      "suggested_id": "samsung-galaxy-s26-cobalt-violet-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Xiaomi REDMI Note 17 Pro Max 5G, Smartphone 8+256 GB, Green, 9210 mAh Akku",
+      "scraped_at": "2026-09-25T07:22:50.725389+00:00",
+      "suggested_id": "xiaomi-redmi-note-17-pro-max-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X300 FE 5G Smartphone | 12 GB + 256 GB | ZEISS Super-Telekamera",
+      "scraped_at": "2026-09-25T07:23:16.454653+00:00",
+      "suggested_id": "vivo-x300-fe-super-telekamera-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X300 FE 5G Smartphone | 12 GB + 256 GB | ZEISS Super-Telekamera",
+      "scraped_at": "2026-09-25T07:23:16.622240+00:00",
+      "suggested_id": "vivo-x300-fe-super-telekamera-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 16 PRO 256GB BLACK TITANIUM 256 GB Titan Schwarz Dual SIM",
+      "scraped_at": "2026-09-25T07:22:29.181735+00:00",
+      "suggested_id": "apple-iphone-16-pro-titan-256gb"
     }
   ]
 }
