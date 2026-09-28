@@ -1043,6 +1043,12 @@
       "raw_name": "APPLE IPHONE 16 PRO 256GB BLACK TITANIUM 256 GB Titan Schwarz Dual SIM",
       "scraped_at": "2026-09-25T07:22:29.181735+00:00",
       "suggested_id": "apple-iphone-16-pro-titan-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 16 128GB BLACK 128 GB Schwarz Dual SIM",
+      "scraped_at": "2026-09-28T08:27:16.080414+00:00",
+      "suggested_id": "apple-iphone-16-128gb"
     }
   ]
 }
