@@ -1049,6 +1049,12 @@
       "raw_name": "APPLE IPHONE 16 128GB BLACK 128 GB Schwarz Dual SIM",
       "scraped_at": "2026-09-28T08:27:16.080414+00:00",
       "suggested_id": "apple-iphone-16-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "TCL P80 Pro 5G Smartphone 50MP OIS Kamera NXTPAPER Display 512GB Blau 50MP Kamera mit großem Sensor, 1.5K AMOLED- & NXTPAPER-Display, 512GB ROM, 24GB erweiterter RAM, 5800mAh Akku (typ.), 45W Laden",
+      "scraped_at": "2026-09-29T08:07:47.491106+00:00",
+      "suggested_id": "tcl-p80-pro-nxtpaper-blau-grossem-sensor-512gb"
     }
   ]
 }
