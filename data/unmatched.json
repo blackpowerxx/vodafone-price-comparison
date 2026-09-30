@@ -1055,6 +1055,18 @@
       "raw_name": "TCL P80 Pro 5G Smartphone 50MP OIS Kamera NXTPAPER Display 512GB Blau 50MP Kamera mit großem Sensor, 1.5K AMOLED- & NXTPAPER-Display, 512GB ROM, 24GB erweiterter RAM, 5800mAh Akku (typ.), 45W Laden",
       "scraped_at": "2026-09-29T08:07:47.491106+00:00",
       "suggested_id": "tcl-p80-pro-nxtpaper-blau-grossem-sensor-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo V70 5G Smartphone | 8GB+256GB | ZEISS Kamera | IP69 | AMOLED",
+      "scraped_at": "2026-09-30T08:13:20.337866+00:00",
+      "suggested_id": "vivo-v70-ip69-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo Y31e 5G Smartphone | 6GB+256GB | IP69+ | 6,72\" 120Hz Display | 50MP",
+      "scraped_at": "2026-09-30T08:13:20.410566+00:00",
+      "suggested_id": "vivo-y31e-ip69-plus-6-256gb"
     }
   ]
 }
