@@ -1067,6 +1067,12 @@
       "raw_name": "vivo Y31e 5G Smartphone | 6GB+256GB | IP69+ | 6,72\" 120Hz Display | 50MP",
       "scraped_at": "2026-09-30T08:13:20.410566+00:00",
       "suggested_id": "vivo-y31e-ip69-plus-6-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "HOTWAV Note 13 Max 128 GB Schwarz, Android 16 Smartphone, Smartphone ohne Vertrag, Günstige handy, Mobiltelefon, 24 Monate Garantie. Dual SIM",
+      "scraped_at": "2026-10-02T08:10:37.141726+00:00",
+      "suggested_id": "hotwav-note-13-max-128gb"
     }
   ]
 }
