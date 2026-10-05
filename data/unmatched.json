@@ -1073,6 +1073,30 @@
       "raw_name": "HOTWAV Note 13 Max 128 GB Schwarz, Android 16 Smartphone, Smartphone ohne Vertrag, Günstige handy, Mobiltelefon, 24 Monate Garantie. Dual SIM",
       "scraped_at": "2026-10-02T08:10:37.141726+00:00",
       "suggested_id": "hotwav-note-13-max-128gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "POCO F9 Pro, Smartphone 12+256, Black, 6330mAh Battery, 100W charging",
+      "scraped_at": "2026-10-05T08:40:48.766151+00:00",
+      "suggested_id": "xiaomi-poco-f9-pro-12-256-battery-100w-charging"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Xiaomi REDMI Note 17 5G, Smartphone 6+128GB, Sky teal, 7700mAh battery",
+      "scraped_at": "2026-10-05T08:40:59.161674+00:00",
+      "suggested_id": "xiaomi-redmi-note-17-128gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "Sony Xperia 10 IV - 6 Inch 21:9 Wide OLED display - Triple Lens Camera - 3.5 mm audio jack - 5000mAh - 161g - SIM free - Dual SIM hybrid - Purple",
+      "scraped_at": "2026-10-05T08:41:03.624975+00:00",
+      "suggested_id": "sony-xperia-10-iv"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 16 PRO MAX 256GB BLACK TITANIUM 256 GB Titan Schwarz Dual SIM",
+      "scraped_at": "2026-10-05T08:40:59.420352+00:00",
+      "suggested_id": "apple-iphone-16-pro-max-titan-256gb"
     }
   ]
 }
