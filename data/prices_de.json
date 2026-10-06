@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T08:40:08.118511+00:00",
+  "scraped_at": "2026-10-06T08:44:45.765635+00:00",
   "prices": {
     "apple-iphone-17-pro-256gb": {
       "vodafone_de": {
@@ -10,7 +10,7 @@
         "url": "https://www.vodafone.de/privat/handys/iphone-17-pro.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602045+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920008+00:00"
       },
       "mediamarkt_de": {
         "upfront_price": 1299.0,
@@ -20,7 +20,7 @@
         "url": "https://www.mediamarkt.de/de/product/_apple-iphone-17-pro-5g-256-gb-silber-dual-sim-3013585.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:59.049371+00:00"
+        "scraped_at": "2026-10-06T08:45:29.218908+00:00"
       }
     },
     "apple-iphone-17-pro-max-256gb": {
@@ -32,7 +32,7 @@
         "url": "https://www.vodafone.de/privat/handys/iphone-17-pro-max.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602065+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920024+00:00"
       },
       "telekom_de": {
         "upfront_price": 0.0,
@@ -42,17 +42,17 @@
         "url": "https://www.telekom.de/shop/geraet/apple/apple-iphone-18-pro-max/burgunder-256-gb?tariffId=MF_17797&categoryId=smartphones&forwardTradeInApplied=true",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:45.287614+00:00"
+        "scraped_at": "2026-10-06T08:45:13.730842+00:00"
       },
       "mediamarkt_de": {
         "upfront_price": 1449.0,
         "monthly_price": null,
         "contract_months": null,
         "total_cost": 1449.0,
-        "url": "https://www.mediamarkt.de/de/product/_apple-iphone-17-pro-max-5g-256-gb-cosmic-orange-dual-sim-3013595.html",
+        "url": "https://www.mediamarkt.de/de/product/_apple-iphone-17-pro-max-5g-256-gb-tiefblau-dual-sim-3013596.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:59.150030+00:00"
+        "scraped_at": "2026-10-06T08:45:29.272005+00:00"
       }
     },
     "samsung-galaxy-s25-256gb": {
@@ -64,7 +64,7 @@
         "url": "https://www.vodafone.de/privat/handys/samsung-galaxy-s25.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602210+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920193+00:00"
       }
     },
     "samsung-galaxy-z-fold7": {
@@ -76,7 +76,7 @@
         "url": "https://www.vodafone.de/privat/handys/samsung-galaxy-z-fold7.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602224+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920207+00:00"
       }
     },
     "samsung-galaxy-a57": {
@@ -88,7 +88,7 @@
         "url": "https://www.vodafone.de/privat/handys/samsung-galaxy-a17-5g.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602257+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920241+00:00"
       }
     },
     "apple-iphone-17-256gb": {
@@ -100,17 +100,7 @@
         "url": "https://www.vodafone.de/privat/handys/iphone-17.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602057+00:00"
-      },
-      "mediamarkt_de": {
-        "upfront_price": 1099.0,
-        "monthly_price": null,
-        "contract_months": null,
-        "total_cost": 1099.0,
-        "url": "https://www.mediamarkt.de/de/product/_apple-iphone-17-5g-256-gb-salbei-dual-sim-3013579.html",
-        "in_stock": true,
-        "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:59.350831+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920018+00:00"
       }
     },
     "apple-iphone-air": {
@@ -122,7 +112,7 @@
         "url": "https://www.vodafone.de/privat/handys/iphone-air.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602072+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920031+00:00"
       }
     },
     "google-pixel-10a": {
@@ -134,7 +124,7 @@
         "url": "https://www.vodafone.de/privat/handys/google-pixel-10.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602150+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920133+00:00"
       }
     },
     "google-pixel-10-pro-xl": {
@@ -146,7 +136,7 @@
         "url": "https://www.vodafone.de/privat/handys/google-pixel-11-pro-xl.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602091+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920054+00:00"
       },
       "telekom_de": {
         "upfront_price": 0.0,
@@ -156,7 +146,7 @@
         "url": "https://www.telekom.de/shop/geraet/google/google-pixel-11-pro-xl/obsidian-256-gb?tariffId=MF_17797&categoryId=smartphones&forwardTradeInApplied=true",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:45.446852+00:00"
+        "scraped_at": "2026-10-06T08:45:13.790564+00:00"
       }
     },
     "google-pixel-9-pro-fold": {
@@ -168,7 +158,7 @@
         "url": "https://www.vodafone.de/privat/handys/google-pixel-11-pro-fold.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602098+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920062+00:00"
       }
     },
     "samsung-galaxy-s25-ultra-256gb": {
@@ -180,7 +170,7 @@
         "url": "https://www.vodafone.de/privat/handys/samsung-galaxy-s26-ultra.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602110+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920075+00:00"
       },
       "telekom_de": {
         "upfront_price": 0.0,
@@ -190,7 +180,7 @@
         "url": "https://www.telekom.de/shop/geraet/samsung/samsung-galaxy-s26-ultra/sky-blue-256-gb?tariffId=MF_17797&categoryId=smartphones&forwardTradeInApplied=true",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:45.366772+00:00"
+        "scraped_at": "2026-10-06T08:45:13.755283+00:00"
       }
     },
     "samsung-galaxy-s25-plus-256gb": {
@@ -202,7 +192,7 @@
         "url": "https://www.vodafone.de/privat/handys/samsung-galaxy-s26-plus.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602116+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920098+00:00"
       }
     },
     "apple-iphone-17e": {
@@ -214,7 +204,7 @@
         "url": "https://www.vodafone.de/privat/handys/iphone-17e.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602122+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920105+00:00"
       }
     },
     "xiaomi-17": {
@@ -226,7 +216,7 @@
         "url": "https://www.vodafone.de/privat/handys/xiaomi-17t.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602184+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920166+00:00"
       }
     },
     "apple-iphone-16-256gb": {
@@ -238,7 +228,7 @@
         "url": "https://www.vodafone.de/privat/handys/iphone-16e.html",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:34.602230+00:00"
+        "scraped_at": "2026-10-06T08:45:05.920214+00:00"
       }
     },
     "samsung-galaxy-s26-plus-256gb": {
@@ -250,55 +240,197 @@
         "url": "https://www.telekom.de/shop/geraet/samsung/samsung-galaxy-s26plus/white-256-gb?tariffId=MF_17797&categoryId=smartphones&forwardTradeInApplied=true",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:46.030224+00:00"
+        "scraped_at": "2026-10-06T08:45:13.929649+00:00"
       }
     },
     "google-pixel-10-128gb": {
-      "mediamarkt_de": {
-        "upfront_price": 899.0,
+      "amazon_de": {
+        "upfront_price": 343.7,
         "monthly_price": null,
         "contract_months": null,
-        "total_cost": 899.0,
-        "url": "https://www.mediamarkt.de/de/product/_google-pixel-10-128-gb-obsidian-dual-sim-3002108.html",
+        "total_cost": 343.7,
+        "url": "https://www.amazon.de/dp/B0GGCBQWG4",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:59.101047+00:00"
+        "scraped_at": "2026-10-06T08:45:54.112781+00:00"
+      },
+      "mediamarkt_de": {
+        "upfront_price": 549.0,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 549.0,
+        "url": "https://www.mediamarkt.de/de/product/_google-pixel-10a-128-gb-obsidian-dual-sim-3032640.html",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:45:29.253900+00:00"
       }
     },
-    "apple-iphone-17-pro-512gb": {
-      "mediamarkt_de": {
-        "upfront_price": 1549.0,
+    "google-pixel-10-pro-128gb": {
+      "amazon_de": {
+        "upfront_price": 553.76,
         "monthly_price": null,
         "contract_months": null,
-        "total_cost": 1549.0,
-        "url": "https://www.mediamarkt.de/de/product/_apple-iphone-17-pro-5g-512-gb-tiefblau-dual-sim-3013590.html",
+        "total_cost": 553.76,
+        "url": "https://www.amazon.de/dp/B0FHL2XPXS",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:59.249929+00:00"
+        "scraped_at": "2026-10-06T08:45:50.629311+00:00"
       }
     },
-    "apple-iphone-17-pro-max-512gb": {
-      "mediamarkt_de": {
-        "upfront_price": 1699.0,
+    "google-pixel-9-256gb": {
+      "amazon_de": {
+        "upfront_price": 695.36,
         "monthly_price": null,
         "contract_months": null,
-        "total_cost": 1699.0,
-        "url": "https://www.mediamarkt.de/de/product/_apple-iphone-17-pro-max-5g-512-gb-tiefblau-dual-sim-3013599.html",
+        "total_cost": 695.36,
+        "url": "https://www.amazon.de/dp/B0H62LV77B",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:59.282134+00:00"
+        "scraped_at": "2026-10-06T08:45:47.567654+00:00"
       }
     },
-    "apple-iphone-16-pro-max-256gb": {
-      "mediamarkt_de": {
-        "upfront_price": 1180.0,
+    "xiaomi-15t-pro-512gb": {
+      "amazon_de": {
+        "upfront_price": 551.25,
         "monthly_price": null,
         "contract_months": null,
-        "total_cost": 1180.0,
-        "url": "https://www.mediamarkt.de/de/product/_apple-iphone-16-pro-max-256-gb-schwarz-dual-sim-146318124.html",
+        "total_cost": 551.25,
+        "url": "https://www.amazon.de/dp/B0GS6BTKRV",
         "in_stock": true,
         "currency": "EUR",
-        "scraped_at": "2026-10-05T08:40:59.386918+00:00"
+        "scraped_at": "2026-10-06T08:45:50.618062+00:00"
+      }
+    },
+    "google-pixel-10-pro-256gb": {
+      "amazon_de": {
+        "upfront_price": 794.95,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 794.95,
+        "url": "https://www.amazon.de/dp/B0H62T8RPM",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:00.557449+00:00"
+      }
+    },
+    "xiaomi-poco-x8-pro-max-256gb": {
+      "amazon_de": {
+        "upfront_price": 325.63,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 325.63,
+        "url": "https://www.amazon.de/dp/B0GHNHKZVN",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:45:50.673696+00:00"
+      }
+    },
+    "xiaomi-poco-x8-pro-512gb": {
+      "amazon_de": {
+        "upfront_price": 283.53,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 283.53,
+        "url": "https://www.amazon.de/dp/B0GHN6G7M2",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:10.426679+00:00"
+      }
+    },
+    "nothing-phone-4a-256gb": {
+      "amazon_de": {
+        "upfront_price": 360.5,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 360.5,
+        "url": "https://www.amazon.de/dp/B0GHNNT88Q",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:45:54.046708+00:00"
+      }
+    },
+    "xiaomi-poco-x8-pro-256gb": {
+      "amazon_de": {
+        "upfront_price": 243.61,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 243.61,
+        "url": "https://www.amazon.de/dp/B0GHNQL4DW",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:10.437554+00:00"
+      }
+    },
+    "google-pixel-9-128gb": {
+      "amazon_de": {
+        "upfront_price": 290.67,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 290.67,
+        "url": "https://www.amazon.de/dp/B0DSWGJMXH",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:45:57.411386+00:00"
+      }
+    },
+    "sony-xperia-1-vii-256gb": {
+      "amazon_de": {
+        "upfront_price": 1349.0,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 1349.0,
+        "url": "https://www.amazon.de/dp/B0D1C9HRFP",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:03.673249+00:00"
+      }
+    },
+    "sony-xperia-1-vi-256gb": {
+      "amazon_de": {
+        "upfront_price": 1349.0,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 1349.0,
+        "url": "https://www.amazon.de/dp/B0D3V56BRJ",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:03.662264+00:00"
+      }
+    },
+    "sony-xperia-10-vii": {
+      "amazon_de": {
+        "upfront_price": 503.36,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 503.36,
+        "url": "https://www.amazon.de/dp/B0HDTKYBW2",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:07.096681+00:00"
+      }
+    },
+    "vivo-v50-256gb": {
+      "amazon_de": {
+        "upfront_price": 446.32,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 446.32,
+        "url": "https://www.amazon.de/dp/B0GSWF4PNK",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:10.393131+00:00"
+      }
+    },
+    "xiaomi-15t-256gb": {
+      "amazon_de": {
+        "upfront_price": 441.17,
+        "monthly_price": null,
+        "contract_months": null,
+        "total_cost": 441.17,
+        "url": "https://www.amazon.de/dp/B0GS6C6FP1",
+        "in_stock": true,
+        "currency": "EUR",
+        "scraped_at": "2026-10-06T08:46:10.404228+00:00"
       }
     }
   }
