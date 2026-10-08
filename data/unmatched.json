@@ -1103,6 +1103,24 @@
       "raw_name": "Xiaomi 17T Pro Smartphone 12+512 GB Tiefviolett 6,83\", Leica 5X Telekamera, Mint Mobile/T-Mobile",
       "scraped_at": "2026-10-06T08:45:54.101461+00:00",
       "suggested_id": "xiaomi-17t-pro-12-tiefviolett-6-512gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "MOTOROLA moto g67 128 GB Arctic Seal Dual SIM",
+      "scraped_at": "2026-10-08T08:38:56.288396+00:00",
+      "suggested_id": "motorola-moto-g67-arctic-seal-128gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 17 PRO 256 GB Cosmic Orange Dual SIM",
+      "scraped_at": "2026-10-08T08:38:56.852945+00:00",
+      "suggested_id": "apple-iphone-17-pro-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 17 PRO 256 GB Silber Dual SIM",
+      "scraped_at": "2026-10-08T08:38:56.869157+00:00",
+      "suggested_id": "apple-iphone-17-pro-silber-256gb"
     }
   ]
 }
