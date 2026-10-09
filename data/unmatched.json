@@ -1121,6 +1121,12 @@
       "raw_name": "APPLE IPHONE 17 PRO 256 GB Silber Dual SIM",
       "scraped_at": "2026-10-08T08:38:56.869157+00:00",
       "suggested_id": "apple-iphone-17-pro-silber-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "INIU Wireless Charger, 15W Schnelles Induktive Ladestation mit LED",
+      "scraped_at": "2026-10-09T08:41:50.522172+00:00",
+      "suggested_id": "iniu-wireless-charger"
     }
   ]
 }
