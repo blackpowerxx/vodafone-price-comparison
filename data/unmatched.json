@@ -1127,6 +1127,12 @@
       "raw_name": "INIU Wireless Charger, 15W Schnelles Induktive Ladestation mit LED",
       "scraped_at": "2026-10-09T08:41:50.522172+00:00",
       "suggested_id": "iniu-wireless-charger"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "POCO X8 Pro Smartphone 8+512GB Black Flagship Dimensity 8500-Ultra",
+      "scraped_at": "2026-10-14T07:18:16.723138+00:00",
+      "suggested_id": "xiaomi-poco-x8-pro-8-flagship-8500-ultra-512gb"
     }
   ]
 }
