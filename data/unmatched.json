@@ -1133,6 +1133,36 @@
       "raw_name": "POCO X8 Pro Smartphone 8+512GB Black Flagship Dimensity 8500-Ultra",
       "scraped_at": "2026-10-14T07:18:16.723138+00:00",
       "suggested_id": "xiaomi-poco-x8-pro-8-flagship-8500-ultra-512gb"
+    },
+    {
+      "source": "vodafone_uk",
+      "raw_name": "Apple iPhone Duo",
+      "scraped_at": "2026-10-17T06:44:50.654095+00:00",
+      "suggested_id": "apple-iphone-duo"
+    },
+    {
+      "source": "ee",
+      "raw_name": "iPhone Duo",
+      "scraped_at": "2026-10-17T06:44:47.870671+00:00",
+      "suggested_id": "apple-iphone-duo"
+    },
+    {
+      "source": "three_uk",
+      "raw_name": "Apple iPhone Duo",
+      "scraped_at": "2026-10-17T06:44:55.377490+00:00",
+      "suggested_id": "apple-iphone-duo"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "iPhone Duo",
+      "scraped_at": "2026-10-17T06:45:04.527521+00:00",
+      "suggested_id": "apple-iphone-duo"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 17 PRO MAX 256 GB Silber Dual SIM",
+      "scraped_at": "2026-10-17T06:45:32.061728+00:00",
+      "suggested_id": "apple-iphone-17-pro-max-silber-256gb"
     }
   ]
 }
