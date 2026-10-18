@@ -1163,6 +1163,30 @@
       "raw_name": "APPLE IPHONE 17 PRO MAX 256 GB Silber Dual SIM",
       "scraped_at": "2026-10-17T06:45:32.061728+00:00",
       "suggested_id": "apple-iphone-17-pro-max-silber-256gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "POCO C95 Pro, Smartphone 6+128 GB, Black, 7500mAh battery 45W Charging",
+      "scraped_at": "2026-10-18T07:05:19.176813+00:00",
+      "suggested_id": "xiaomi-poco-c95-pro-6-battery-45w-charging-128gb"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "POCO X8 Pro Smartphone 8+256GB Green Flagship Dimensity 8500-Ultra",
+      "scraped_at": "2026-10-18T07:05:42.341574+00:00",
+      "suggested_id": "xiaomi-poco-x8-pro-8-flagship-8500-ultra-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "TCL P80 5G Smartphone Schlankes Design 6,83\" AMOLED 50MP OIS 256GB Mitternachtsblau Schlankes Design, 50MP OIS-Kamera, 1.5K AMOLED-Display, 24GB RAM, 5000mAh Akku (typ.), 45W Laden, Google Gemini",
+      "scraped_at": "2026-10-18T07:05:58.964170+00:00",
+      "suggested_id": "google-tcl-p80-schlankes-design-6-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Nothing Headphone (1) Pro Noise Cancelling Kopfhörer, DREI Treiber, Hi-Res",
+      "scraped_at": "2026-10-18T07:05:59.068901+00:00",
+      "suggested_id": "nothing-headphone-1-pro-noise-cancelling-kopfhorer"
     }
   ]
 }
