@@ -1187,6 +1187,24 @@
       "raw_name": "Nothing Headphone (1) Pro Noise Cancelling Kopfhörer, DREI Treiber, Hi-Res",
       "scraped_at": "2026-10-18T07:05:59.068901+00:00",
       "suggested_id": "nothing-headphone-1-pro-noise-cancelling-kopfhorer"
+    },
+    {
+      "source": "amazon_uk",
+      "raw_name": "REDMI 17, Smartphone 4+128GB, Lotus Purple, 7500mAh Battery, 45W charging",
+      "scraped_at": "2026-10-27T07:31:42.127443+00:00",
+      "suggested_id": "xiaomi-redmi-17-4-lotus-battery-45w-charging-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Oppo Find X10 5G Smartphone 12GB+256GB, Hasselblad Dual-200MP, Mist Grey",
+      "scraped_at": "2026-10-27T07:32:16.853436+00:00",
+      "suggested_id": "oppo-find-x10-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 17 PRO MAX 256 GB Cosmic Orange Dual SIM",
+      "scraped_at": "2026-10-27T07:31:52.290116+00:00",
+      "suggested_id": "apple-iphone-17-pro-max-256gb"
     }
   ]
 }
