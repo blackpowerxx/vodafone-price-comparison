@@ -1205,6 +1205,18 @@
       "raw_name": "APPLE IPHONE 17 PRO MAX 256 GB Cosmic Orange Dual SIM",
       "scraped_at": "2026-10-27T07:31:52.290116+00:00",
       "suggested_id": "apple-iphone-17-pro-max-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo Y21 5G Smartphone | 4GB+256GB | 6,74\" 120Hz Display | 50MP Kamera",
+      "scraped_at": "2026-10-29T08:14:21.964939+00:00",
+      "suggested_id": "vivo-y21-6-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo Y21e Smartphone|4GB + 256 GB|50 MP Kamera|5.200 mAh|44W FlashCharge",
+      "scraped_at": "2026-10-29T08:14:21.984528+00:00",
+      "suggested_id": "vivo-y21e-44w-flashcharge-256gb"
     }
   ]
 }
