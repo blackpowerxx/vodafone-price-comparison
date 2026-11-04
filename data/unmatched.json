@@ -1217,6 +1217,18 @@
       "raw_name": "vivo Y21e Smartphone|4GB + 256 GB|50 MP Kamera|5.200 mAh|44W FlashCharge",
       "scraped_at": "2026-10-29T08:14:21.984528+00:00",
       "suggested_id": "vivo-y21e-44w-flashcharge-256gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 17 PRO 512 GB Silber Dual SIM",
+      "scraped_at": "2026-11-04T08:48:46.866272+00:00",
+      "suggested_id": "apple-iphone-17-pro-silber-512gb"
+    },
+    {
+      "source": "mediamarkt_de",
+      "raw_name": "APPLE IPHONE 18 PRO 256GB SILVER 256 GB Silber Dual SIM",
+      "scraped_at": "2026-11-04T08:48:46.977044+00:00",
+      "suggested_id": "apple-iphone-18-pro-silber-256gb"
     }
   ]
 }
