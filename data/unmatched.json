@@ -1229,6 +1229,66 @@
       "raw_name": "APPLE IPHONE 18 PRO 256GB SILVER 256 GB Silber Dual SIM",
       "scraped_at": "2026-11-04T08:48:46.977044+00:00",
       "suggested_id": "apple-iphone-18-pro-silber-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "REDMI Note 17 Pro 5G, Smartphone 8+512 GB, Purple, 8340 mAh Akku",
+      "scraped_at": "2026-11-12T09:30:35.998395+00:00",
+      "suggested_id": "xiaomi-redmi-note-17-pro-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus Nord 6 AI Smartphone 12GB+512GB Snapdragon 8s Gen 4, Schwarz",
+      "scraped_at": "2026-11-12T09:30:48.772645+00:00",
+      "suggested_id": "oneplus-nord-6-8s-gen-4-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus Open 512GB/16GB RAM Dual-SIM voyager-black (Generalüberholt)",
+      "scraped_at": "2026-11-12T09:30:48.831055+00:00",
+      "suggested_id": "oneplus-open-voyager-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus Nord CE 6 5G 256GB/8GB Dual SIM Preto",
+      "scraped_at": "2026-11-12T09:30:51.906819+00:00",
+      "suggested_id": "oneplus-nord-ce-6-preto-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 15R, 12 GB RAM + 256 GB Speicher, Dual-SIM, entsperrtes Android-Smartphone, Snapdragon 8 Gen 5, 7400 mAh Akku, Charcoal Black",
+      "scraped_at": "2026-11-12T09:30:51.919584+00:00",
+      "suggested_id": "oneplus-15r-entsperrtes-8-gen-5-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus Nord CE5 5G 8GB/256GB Weiß (Marble Mist) Dual-SIM",
+      "scraped_at": "2026-11-12T09:30:51.932112+00:00",
+      "suggested_id": "oneplus-nord-ce5-marble-mist-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus Nord 6 AI Smartphone 8GB+256GB Snapdragon 8s Gen 4, Schwarz",
+      "scraped_at": "2026-11-12T09:30:51.970747+00:00",
+      "suggested_id": "oneplus-nord-6-8s-gen-4-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "OnePlus 12 5G 16 GB/512 GB Schwarz (Silky Black) Dual-SIM",
+      "scraped_at": "2026-11-12T09:30:54.940883+00:00",
+      "suggested_id": "oneplus-12-silky-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X500 Pro Max 12GB+256GB, 200 MP ZEISS-APO-Telekamera, TrueDynamic",
+      "scraped_at": "2026-11-12T09:31:14.272682+00:00",
+      "suggested_id": "vivo-x500-pro-max-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X500 Pro Max 12GB+256GB, 200 MP ZEISS-APO-Telekamera, TrueDynamic",
+      "scraped_at": "2026-11-12T09:31:14.335616+00:00",
+      "suggested_id": "vivo-x500-pro-max-256gb"
     }
   ]
 }
