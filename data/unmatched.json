@@ -1289,6 +1289,66 @@
       "raw_name": "vivo X500 Pro Max 12GB+256GB, 200 MP ZEISS-APO-Telekamera, TrueDynamic",
       "scraped_at": "2026-11-12T09:31:14.335616+00:00",
       "suggested_id": "vivo-x500-pro-max-256gb"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "Xiaomi 18 Pro",
+      "scraped_at": "2026-11-17T10:23:44.649496+00:00",
+      "suggested_id": "xiaomi-18-pro"
+    },
+    {
+      "source": "vodafone_de",
+      "raw_name": "Xiaomi 18 Pro Max",
+      "scraped_at": "2026-11-17T10:23:44.649503+00:00",
+      "suggested_id": "xiaomi-18-pro-max"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "REDMI Note 17 5G, Smartphone 6+256 GB, Celestial Purple, 7700 mAh Akku",
+      "scraped_at": "2026-11-17T10:24:28.386778+00:00",
+      "suggested_id": "xiaomi-redmi-note-17-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "REDMI 17 5G, Smartphone 4+128 GB, Schwarz, 7500mAh Akku, 45W Laden",
+      "scraped_at": "2026-11-17T10:24:28.414717+00:00",
+      "suggested_id": "xiaomi-redmi-17-4-45w-laden-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "TCL P80 Pro 5G Smartphone 50MP OIS Camera NXTPAPER Display 512GB Gold",
+      "scraped_at": "2026-11-17T10:24:28.439484+00:00",
+      "suggested_id": "tcl-p80-pro-nxtpaper-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "TCL P80 Ultra 5G Smartphone 50MP 3xTeleobjektiv NXTPAPER Display 512GB Gold",
+      "scraped_at": "2026-11-17T10:24:34.952627+00:00",
+      "suggested_id": "tcl-p80-ultra-3xteleobjektiv-nxtpaper-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Xiaomi Poco M8 5G Smartphone 8 GB RAM + 256 GB Speicher Unlocked Handy mit Android 677\" 120 Hz Flow AMOLED Display 50 MP KI-Dual-Kamera 735 mm Schlankes 3D-Curved Design Grün 2 Jahre Garantie",
+      "scraped_at": "2026-11-17T10:24:41.210054+00:00",
+      "suggested_id": "xiaomi-poco-m8-677-120-hz-flow-dual-735-mm-schlankes-3d-curved-design-grun-2-garantie-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X500 Pro Max 12GB+1TB Smartphone mit ZEISS Teleobjektiverweiterung",
+      "scraped_at": "2026-11-17T10:24:44.261401+00:00",
+      "suggested_id": "vivo-x500-pro-max-1tb-teleobjektiverweiterung"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "REDMI 17 5G, Smartphone 4+256 GB, Orange, 7500mAh Akku, 45W Laden",
+      "scraped_at": "2026-11-17T10:24:44.350782+00:00",
+      "suggested_id": "xiaomi-redmi-17-4-45w-laden-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "HUAWEI nova 14 Pro Smartphone, 6.78\" Quad-Curve, Schwarz",
+      "scraped_at": "2026-11-17T10:24:44.370841+00:00",
+      "suggested_id": "huawei-nova-14-pro"
     }
   ]
 }
