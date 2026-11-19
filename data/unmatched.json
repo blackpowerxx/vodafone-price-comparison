@@ -1349,6 +1349,42 @@
       "raw_name": "HUAWEI nova 14 Pro Smartphone, 6.78\" Quad-Curve, Schwarz",
       "scraped_at": "2026-11-17T10:24:44.370841+00:00",
       "suggested_id": "huawei-nova-14-pro"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "REDMI Note 17 Pro Max 5G, Smartphone 8+512 GB, Cloud Blush, 9210 mAh Akku",
+      "scraped_at": "2026-11-19T10:01:19.934754+00:00",
+      "suggested_id": "xiaomi-redmi-note-17-pro-max-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Belkin UltraCharge Pro 25 W 3-in-1 Induktive Ladestation, Qi2-zertifiziert",
+      "scraped_at": "2026-11-19T10:01:19.970027+00:00",
+      "suggested_id": "belkin-ultracharge-pro-25-w-3-in-1-induktive-ladestation"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Belkin UltraCharge Pro 25 W 2-in-1 Qi2 Induktive Ladestation, faltbar",
+      "scraped_at": "2026-11-19T10:01:19.986047+00:00",
+      "suggested_id": "belkin-ultracharge-pro-25-w-2-in-1-qi2-induktive-ladestation"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Oppo Reno15 FS 5G Smartphone, 512GB, 8GB RAM, 6500mAh Akku, 80W, Black",
+      "scraped_at": "2026-11-19T10:01:51.039435+00:00",
+      "suggested_id": "oppo-reno15-fs-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Moto Edge 70 Plus Smartphone 200-MP-Kamera 8-256GB dunkelgrün",
+      "scraped_at": "2026-11-19T10:02:00.374525+00:00",
+      "suggested_id": "motorola-moto-edge-70-plus-200-mp-8-dunkelgrun-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Sony WH-1000XM6 Flaggschiff Wireless Noise Cancelling Kopfhörer",
+      "scraped_at": "2026-11-19T10:02:06.540293+00:00",
+      "suggested_id": "sony-wh-1000xm6-flaggschiff-wireless-noise-cancelling-kopfhorer"
     }
   ]
 }
