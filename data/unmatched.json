@@ -1385,6 +1385,30 @@
       "raw_name": "Sony WH-1000XM6 Flaggschiff Wireless Noise Cancelling Kopfhörer",
       "scraped_at": "2026-11-19T10:02:06.540293+00:00",
       "suggested_id": "sony-wh-1000xm6-flaggschiff-wireless-noise-cancelling-kopfhorer"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "TOCOL für iPhone 16 Pro für Panzerglas 6,3 Zoll, Einfache Montage",
+      "scraped_at": "2026-11-21T09:25:20.068210+00:00",
+      "suggested_id": "apple-tocol-iphone-16-pro-panzerglas-6"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Nothing Ear (3a) Noise-Cancelling-Buds, 45 dB Hybrid ANC Hi-Res Audio",
+      "scraped_at": "2026-11-21T09:26:03.288327+00:00",
+      "suggested_id": "nothing-ear-3a-noise-cancelling-buds"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Nothing Ear (3a) Noise-Cancelling-Buds, 45 dB Hybrid ANC Hi-Res Audio Weiß",
+      "scraped_at": "2026-11-21T09:26:03.302219+00:00",
+      "suggested_id": "nothing-ear-3a-noise-cancelling-buds"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Nothing Ear (3a) Noise-Cancelling-Buds, 45 dB Hybrid ANC Hi-Res Audio Rosa",
+      "scraped_at": "2026-11-21T09:26:03.315903+00:00",
+      "suggested_id": "nothing-ear-3a-noise-cancelling-buds"
     }
   ]
 }
