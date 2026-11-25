@@ -1409,6 +1409,12 @@
       "raw_name": "Nothing Ear (3a) Noise-Cancelling-Buds, 45 dB Hybrid ANC Hi-Res Audio Rosa",
       "scraped_at": "2026-11-21T09:26:03.315903+00:00",
       "suggested_id": "nothing-ear-3a-noise-cancelling-buds"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "XIAOMI POCO F8 Ultra Handy, 12+256GB, 6500mAh, 50MP, Blau",
+      "scraped_at": "2026-11-25T11:00:48.379709+00:00",
+      "suggested_id": "xiaomi-poco-f8-ultra-256gb"
     }
   ]
 }
