@@ -1415,6 +1415,30 @@
       "raw_name": "XIAOMI POCO F8 Ultra Handy, 12+256GB, 6500mAh, 50MP, Blau",
       "scraped_at": "2026-11-25T11:00:48.379709+00:00",
       "suggested_id": "xiaomi-poco-f8-ultra-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Apple iPhone 11 Pro 64GB Space Grau (Generalüberholt)",
+      "scraped_at": "2026-11-27T10:40:18.973893+00:00",
+      "suggested_id": "apple-iphone-11-pro-space-grau-64gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Sony Xperia 1 128 GB Smartphone (16, 5 cm (6, 5 Zoll) OLED Display, Triple-Kamera, IP65/IP68, 6 GB RAM, Android 9) Schwarz",
+      "scraped_at": "2026-11-27T10:41:02.218364+00:00",
+      "suggested_id": "sony-xperia-1-16-128gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Sony Xperia 10 III 15,2 cm (6\") Double SIM hybride Android 11 5G USB Type-C 6 Go 128 Go 4500 mAh Noir",
+      "scraped_at": "2026-11-27T10:41:05.215927+00:00",
+      "suggested_id": "sony-xperia-10-iii-15"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X Fold6 5G Smartphone 12 GB + 512 GB, ZEISS 200 MP Kamera",
+      "scraped_at": "2026-11-27T10:41:08.237286+00:00",
+      "suggested_id": "vivo-x-fold6-512gb"
     }
   ]
 }
