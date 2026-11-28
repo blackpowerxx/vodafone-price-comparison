@@ -1439,6 +1439,48 @@
       "raw_name": "vivo X Fold6 5G Smartphone 12 GB + 512 GB, ZEISS 200 MP Kamera",
       "scraped_at": "2026-11-27T10:41:08.237286+00:00",
       "suggested_id": "vivo-x-fold6-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "REDMI 17, Smartphone 4+256 GB, Grün, 7500mAh Akku, 45W Laden",
+      "scraped_at": "2026-11-28T09:58:34.118300+00:00",
+      "suggested_id": "xiaomi-redmi-17-4-grun-45w-laden-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Xiaomi POCO X8 Pro Smartphone 8+256GB Weiß Dimensity 8500-Ultra",
+      "scraped_at": "2026-11-28T09:58:43.477823+00:00",
+      "suggested_id": "xiaomi-poco-x8-pro-8-8500-ultra-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Xiaomi 18 Pro Max, Smartphone 12+256 GB, Blue, Adapter Not Included",
+      "scraped_at": "2026-11-28T09:58:43.556848+00:00",
+      "suggested_id": "xiaomi-18-pro-max-256gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "Oppo Reno16 5G Handy 8+512GB 6000mAh 120Hz 50MP, Pop White",
+      "scraped_at": "2026-11-28T09:59:02.209006+00:00",
+      "suggested_id": "oppo-reno16-8-120hz-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "TCL NXTPAPER 60 Ultra 5G Android-Smartphone,7,2 Zoll FHD+ 120 Hz NXTPAPER Display,12 GB RAM + 512 GB ROM,Smartphone mit Augenschutz,5000-mAh-Akku,Lunar White, mit Klappdeckel und Stift",
+      "scraped_at": "2026-11-28T09:59:21.103710+00:00",
+      "suggested_id": "tcl-nxtpaper-60-ultra-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X500 Pro Max 12GB+512GB Smartphone mit ZEISS Teleobjektiverweiterung",
+      "scraped_at": "2026-11-28T09:59:24.247947+00:00",
+      "suggested_id": "vivo-x500-pro-max-teleobjektiverweiterung-512gb"
+    },
+    {
+      "source": "amazon_de",
+      "raw_name": "vivo X500 Pro Max 12GB+512GB Smartphone mit ZEISS Teleobjektiverweiterung",
+      "scraped_at": "2026-11-28T09:59:24.304723+00:00",
+      "suggested_id": "vivo-x500-pro-max-teleobjektiverweiterung-512gb"
     }
   ]
 }
